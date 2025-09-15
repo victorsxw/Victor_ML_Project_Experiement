@@ -1,0 +1,243 @@
+Extreme Sentiment Divergence Days for 2024-08
+==================================================
+
+Date: 2024-08-30
+News sentiment: -1.9746, Reddit sentiment: 1.6145
+Absolute difference: 3.5891
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: 'Judge Bans X In Brazil After Musk Refuses To...
+
+Article 2
+Title: Nvidia Continues To Lead The Way But Competition Is Intensifying
+
+Article 3
+Title: Comparative Study: Meta Platforms And Industry Competitors In Interactive Media & Services Industry
+
+Article 4
+Title: Post Nvidia Earnings, Market Is 'Broadening Out' Beyond Magnificent 7 Stocks, Says Piper Sandler Analyst
+
+Article 5
+Title: EXCLUSIVE: Beyond The Magnificent Seven — Direxion's Egilinsky Reveals Top Sector Picks
+
+Article 6
+Title: Meta, Bank of America And 2 Other Stocks Executives Are Selling
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: neutral
+Title: What's the deal with this new colour scheme for the Facebook app icon?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'What's the deal with this new colour scheme for the Facebook app icon?'.
+
+Answer: 
+
+Post 2
+Sentiment: neutral
+Title: Trying to recover a Facebook account that was hacked 2 years ago, and I'm almost desperate
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Trying to recover a Facebook account that was hacked 2 years ago, and I'm almost desperate'.
+
+Answer: 
+
+Post 3
+Sentiment: neutral
+Title: Meta ai now changing my emoji button so I can't use emojis like how I used to 
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta ai now changing my emoji button so I can't use emojis like how I used to '.
+
+Answer: 
+
+================================================================================
+
+Date: 2024-08-29
+News sentiment: -1.7063, Reddit sentiment: 1.7013
+Absolute difference: 3.4075
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: 'Meta's AI Assistant Wins Millions of Users i...
+
+Article 2
+Title: $1000 Invested In Meta Platforms 10 Years Ago Would Be Worth This Much Today
+
+Article 3
+Title: Meta Platforms's Options Frenzy: What You Need to Know
+
+Article 4
+Title: Rezolve AI Announces Groundbreaking Partnersh...
+
+Article 5
+Title: Yelp Launches Antitrust Battle Against Google After Federal Ruling Declares Search Giant A Monopolist
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: neutral
+Title: Quick Facebook Pixel Fix That Can Improve Your Facebook Ad Performance.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Quick Facebook Pixel Fix That Can Improve Your Facebook Ad Performance.'.
+
+Answer: 
+
+Post 2
+Sentiment: neutral
+Title: Why are people still using Facebook? What does Facebook have that other platforms don't?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Why are people still using Facebook? What does Facebook have that other platforms don't?'.
+
+Answer: 
+
+================================================================================
+
+Date: 2024-08-28
+News sentiment: -1.7753, Reddit sentiment: 1.5096
+Absolute difference: 3.2849
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: OpenAI On Cusp Of Raising Billions In New Venture Capital Round, Valuation Spikes To $100B: Report
+
+Article 2
+Title: "Meta Considers Mixed Reality Glasses Code-Na...
+
+Article 3
+Title: AI Chip Stocks Rally Faces New Headwinds - Why Are Nvidia, Taiwan Semiconductor, Broadcom And Marvell Tech Stocks Sliding?
+
+Article 4
+Title: Blackwell Guidance Is The Key To Nvidia And Stock Market, Whales Sell Bitcoin – Russia To Compete
+
+Article 5
+Title: Meta Platforms Says Parents Who Approved Acce...
+
+Article 6
+Title: Ready To Retire On A Single Magnificent 7 Stock? Poll Reveals Top Pick —And It's Not Apple
+
+Article 7
+Title: Nearly Half Of OpenAI's AGI Safety Researchers Resign Amid Growing Focus On Commercial Product Development: Report
+
+Article 8
+Title: Amazon Emerges As Hedge Funds' Top Stock Choice In Q2, Surpassing Microsoft With 411 Holders
+
+Article 9
+Title: Mark Zuckerberg's Meta Abandons Custom Chip Development For Orion AR Glasses: Report
+
+Article 10
+Title: Mark Zuckerberg's Admission Of Censorship A 'Beautiful Thing,' Says Vivek Ramaswamy: 'I Respect Him' For Admitting His Mistake
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: neutral
+Title: Is Facebook acting strange or is it my computer. Not seeing any posts.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Is Facebook acting strange or is it my computer. Not seeing any posts.'.
+
+Answer: 
+
+Post 2
+Sentiment: neutral
+Title: Facebook doesn't care if you impersonate other people apparently. Response from a report I made. 
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook doesn't care if you impersonate other people apparently. Response from a report I made. '.
+
+Answer: 
+
+Post 3
+Sentiment: neutral
+Title: I don't have a Whatsapp account but facebook is asking for a code sent to Whatsapp
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I don't have a Whatsapp account but facebook is asking for a code sent to Whatsapp'.
+
+Answer: 
+
+Post 4
+Sentiment: neutral
+Title: My facebook app icon is black, and it's not letting me see anyone's profile I'm not friends with. 
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'My facebook app icon is black, and it's not letting me see anyone's profile I'm not friends with. '.
+
+Answer: 
+
+================================================================================
+
+Date: 2024-08-21
+News sentiment: -1.5365, Reddit sentiment: 1.6252
+Absolute difference: 3.1617
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Meta Blasts Professor Lawsuit Over User Control Of Facebook As 'Baseless'
+
+Article 2
+Title: 10 Communication Services Stocks With Whale Alerts In Today's Session
+
+Article 3
+Title: Nvidia Fever Stops Rising, Target Shows Consumer Resilient, Annual Jobs Revision May Move Markets
+
+Article 4
+Title: 'Meta's Search for AI Clout Takes It Into New...
+
+Article 5
+Title: Gavin Newsom's California Wants To Regulate AI, But It's Facing Stiff Opposition From Both Big Tech As Well As Nancy Pelosi And Other Democrats: Here's Why
+
+Article 6
+Title: Chinese Tech Giants Alibaba And Tencent Ramp Up AI Investments, With Nearly A Third Of Deals Since 2023 Aimed At AI Startups
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: neutral
+Title: What's Working for Meta Ads, August 2024 - Small (<1000/day) and Large Budgets
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'What's Working for Meta Ads, August 2024 - Small (<1000/day) and Large Budgets'.
+
+Answer: 
+
+================================================================================
+
+Date: 2024-08-27
+News sentiment: -1.6499, Reddit sentiment: 1.3140
+Absolute difference: 2.9639
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Dow Jones Hits All Time High But Semiconductors And AI Stocks Get Hit Ahead Of Nvidia Earnings
+
+Article 2
+Title: Mark Cuban, Bill Gates, Elon Musk, Mark Zuckerberg, Michael Jordan, Rihanna: The Ages When 11 Famous Billionaires Reached The Milestone
+
+Article 3
+Title: 'A Meta Spark Update; Meta Spark's Platform O...
+
+Article 4
+Title: Mark Zuckerberg Reveals Biden Administration Pressured Meta Platforms To Censor Certain COVID-19 Content, Vows To Resist Pressure In Future
+
+Article 5
+Title: Reported On August 26: In A Letter, Mark Zuck...
+
+Article 6
+Title: Meta Partners With Sage To Expand Geothermal Energy In US: Details
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: negative
+Title: Facebook locked me out and I can not for the life of me get through to a real person
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook locked me out and I can not for the life of me get through to a real person'.
+
+Answer: 
+
+Post 2
+Sentiment: negative
+Title: Facebook Account Suspended??SMS & Whatsapp Codes are saying incorrect # when i'm typing them in correctly?? Help! 
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook Account Suspended??SMS & Whatsapp Codes are saying incorrect # when i'm typing them in correctly?? Help! '.
+
+Answer: 
+
+Post 3
+Sentiment: neutral
+Title: Stock Market Recap 08/27/2024: Nvidia Earnings — The Moment of Truth + Zuckerberg vs. The White House + Super Micro Gets Hit With Hindenburg Report
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Stock Market Recap 08/27/2024: Nvidia Earnings — The Moment of Truth + Zuckerberg vs. The White House + Super Micro Gets Hit With Hindenburg Report'.
+
+Answer: 
+
+================================================================================
+

@@ -1,0 +1,38 @@
+NVDA_with_category 数据集概览：
+行数：10004
+列数：5
+
+索引名称: 未命名
+索引类型: object
+
+数据类型：
+datetime: datetime64[ns, UTC]
+headline: object
+question: object
+answer: object
+category: object
+
+缺失值统计：
+datetime: 0
+headline: 0
+question: 0
+answer: 0
+category: 0
+
+唯一值统计：
+datetime: 9706
+headline: 7862
+question: 7862
+answer: 3
+category: 14
+
+数据前5行示例：
+                                 datetime  ...        category
+date       tic                             ...                
+2025-03-03 NVDA 2025-03-04 08:12:00+00:00  ...  fiscal-related
+           NVDA 2025-03-04 07:00:00+00:00  ...  fiscal-related
+           NVDA 2025-03-04 05:00:00+00:00  ...  fiscal-related
+           NVDA 2025-03-04 01:00:00+00:00  ...     data-driven
+           NVDA 2025-03-03 21:00:00+00:00  ...     data-driven
+
+[5 rows x 5 columns]

@@ -1,0 +1,54 @@
+news_nvda_compare1.pkl 数据集概览：
+行数：383
+列数：15
+
+数据类型：
+sentiment: int64
+count: int64
+rolling_sum: float64
+rolling_count: float64
+score: float64
+SMA1: float64
+SMA1_scaled: float64
+EMA0.2: float64
+EMA0.2_scaled: float64
+EMA0.1: float64
+EMA0.1_scaled: float64
+EMA0.05: float64
+EMA0.05_scaled: float64
+EMA0.02: float64
+EMA0.02_scaled: float64
+
+缺失值统计：
+sentiment: 0
+count: 0
+rolling_sum: 0
+rolling_count: 0
+score: 0
+SMA1: 0
+SMA1_scaled: 0
+EMA0.2: 19
+EMA0.2_scaled: 19
+EMA0.1: 19
+EMA0.1_scaled: 19
+EMA0.05: 19
+EMA0.05_scaled: 19
+EMA0.02: 19
+EMA0.02_scaled: 19
+
+唯一值统计：
+sentiment: 24
+count: 42
+rolling_sum: 24
+rolling_count: 42
+score: 115
+SMA1: 115
+SMA1_scaled: 115
+EMA0.2: 364
+EMA0.2_scaled: 364
+EMA0.1: 364
+EMA0.1_scaled: 364
+EMA0.05: 364
+EMA0.05_scaled: 364
+EMA0.02: 364
+EMA0.02_scaled: 364

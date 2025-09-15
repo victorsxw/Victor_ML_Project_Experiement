@@ -1,0 +1,21 @@
+meta_chat7.pkl 数据集概览：
+行数：7445
+列数：4
+
+数据类型：
+datetime: datetime64[ns, UTC]
+headline: object
+question: object
+answer: object
+
+缺失值统计：
+datetime: 0
+headline: 0
+question: 0
+answer: 0
+
+唯一值统计：
+datetime: 7291
+headline: 6550
+question: 6550
+answer: 4

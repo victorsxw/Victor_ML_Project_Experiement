@@ -1,0 +1,202 @@
+Examples of Negative News but Positive Reddit Sentiment
+========================================================
+
+Date: 2024-09-17
+News sentiment: -3.3720, Reddit sentiment: 1.1533
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Snap Unveils Smart Glasses To Bring AR Technology To Physical World: What Investors Need To Know
+
+Article 2
+Title: Biggest Even Microsoft Buyback, New Retail Sales Go Against Prevailing Wisdom, Trump Crypto Project
+
+Article 3
+Title: Limited Upside As Investors Await First Fed Cut: Here's My Most Likely Scenario For QQQ
+
+Article 4
+Title: EssilorLuxottica And Meta Platforms Double Down On Smart Eyewear: Details
+
+Article 5
+Title: Mark Zuckerberg's Meta Banishes Russian State Media Globally To Counter Foreign Influence: RT And Related Entities 'Are Now Banned From Our Apps Globally'
+
+Article 6
+Title: Intel, Microsoft, Meta Platforms, Pfizer, Tesla: Why These 5 Stocks Are On Investors' Radars Today
+
+No Reddit posts found for this date.
+
+================================================================================
+
+Date: 2024-09-06
+News sentiment: -2.5237, Reddit sentiment: 1.5403
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Peter Thiel Supports Trump, Backed Ethereum's Buterin: 5 Facts You Might Not Know About PayPal, Palantir Co-Founder
+
+Article 2
+Title: Meta Updates On Third-Party Chat Integration For WhatsApp And Messenger In Europe
+
+Article 3
+Title: Meta's Latest Free Speech Ruling on a Controversial Phrase Fuels Debate While the Stock Is Up 47% Year-to-Date
+
+Article 4
+Title: DoubleVerify's Politics-Focused Inflammatory News Category Rolls Out On Meta: Details
+
+Article 5
+Title: 10 Communication Services Stocks Whale Activity In Today's Session
+
+Article 6
+Title: Meta Platforms Says In Europe, Built New Noti...
+
+Article 7
+Title: Mother Of All Reports Disappoints Both Bulls And Bears – Critical Waller Remarks Ahead
+
+Article 8
+Title: Broadcom Analyst Lifts AI Revenue Forecast To $12B On Potential Strong Demand From Google, Meta
+
+Article 9
+Title: Behind the Scenes of Meta Platforms's Latest Options Trends
+
+No Reddit posts found for this date.
+
+================================================================================
+
+Date: 2024-09-09
+News sentiment: -2.6317, Reddit sentiment: 1.4293
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Investors Pin Hope On Apple Intelligence, Short Squeeze And Weaker Yen Drive Stock Market Higher
+
+Article 2
+Title: $100 Invested In This Stock 10 Years Ago Would Be Worth $700 Today
+
+Article 3
+Title: 'Elon Musk faces possible summons before UK p...
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: neutral
+Title: facebook removed my post--they say "It looks like you tried to get likes, follows, shares or video views in a misleading way."  I don't get it?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'facebook removed my post--they say "It looks like you tried to get likes, follows, shares or video views in a misleading way."  I don't get it?'.
+
+Answer: 
+
+Post 2
+Sentiment: neutral
+Title: To fellow small biz owners paying agencies to run meta ads 
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'To fellow small biz owners paying agencies to run meta ads '.
+
+Answer: 
+
+Post 3
+Sentiment: neutral
+Title: Is Facebook Getting Too Crowded for Advertisers?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Is Facebook Getting Too Crowded for Advertisers?'.
+
+Answer: 
+
+Post 4
+Sentiment: negative
+Title: Facebook account hacked, details changed, then disabled - gained access within 24 hours using Instagram verification tactic giving access to Meta live chat. 
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook account hacked, details changed, then disabled - gained access within 24 hours using Instagram verification tactic giving access to Meta live chat. '.
+
+Answer: 
+
+================================================================================
+
+Date: 2024-09-10
+News sentiment: -2.9935, Reddit sentiment: 1.0183
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Meta Exemplifies Benefits Of Founder Leadership More Than Any Other Mega Cap Including Nvidia: Analyst
+
+Article 2
+Title: This Chart Before Buying AI Stocks, Apple Loses $14B Fight
+
+Article 3
+Title: DA Davidson Initiates Coverage On Meta Platfo...
+
+Article 4
+Title: Analyst Says 'Don't Buy The Tech Dip' Amid Election Policy Uncertainty, Advises Focusing On These Sectors For 'Quality, Stability, And Income'
+
+Article 5
+Title: Did Mark Zuckerberg Really Say 'No Way I Can Vote For A Democrat In This Election' To Trump?
+
+Article 6
+Title: After Feud With Elon Musk And Mark Zuckerberg, Australian PM Anthony Albanese Set To Ban Social Media For Children, Citing Health Concerns
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: negative
+Title: Ad Creatives Won’t Work on Meta
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Ad Creatives Won’t Work on Meta'.
+
+Answer: 
+
+Post 2
+Sentiment: neutral
+Title: After being “in the trenches” of 20+ Facebook ad accounts the last few months, I’m back to share some must-know insights and my updated strategies.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'After being “in the trenches” of 20+ Facebook ad accounts the last few months, I’m back to share some must-know insights and my updated strategies.'.
+
+Answer: 
+
+================================================================================
+
+Date: 2024-09-12
+News sentiment: -2.8085, Reddit sentiment: 1.1213
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Google Antitrust 'Smoking Gun' Is Actually What Most Executives Are Paid To Do
+
+Article 2
+Title: Human-Like Reasoning 'Strawberry' Ahead, Aggressive Nvidia Buying, Hotter Inflation Data
+
+Article 3
+Title: Mark Zuckerberg Live Event Sold Out Stadium: Meta CEO Attracted Thousands Eager To Hear Him Speak On 'The Next Decade Of Social, Technology, And AI'
+
+Article 4
+Title: Bipartisan Coalition Of 42 State AGs Urges Congress To Mandate Surgeon General Warnings On Social Media Apps Like TikTok, X, And Meta's Instagram To Address Growing Mental Health Concerns
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: negative
+Title: Facebook having outage right now? Cant seem to connect. Also mobile app having issues.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook having outage right now? Cant seem to connect. Also mobile app having issues.'.
+
+Answer: 
+
+Post 2
+Sentiment: neutral
+Title: What is the point of Facebook if you can't even make friends anymore? 
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'What is the point of Facebook if you can't even make friends anymore? '.
+
+Answer: 
+
+Post 3
+Sentiment: negative
+Title: meta ad performances dropped spectacularly
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'meta ad performances dropped spectacularly'.
+
+Answer: 
+
+Post 4
+Sentiment: neutral
+Title: I've Audited 100+ Facebook Ad Accounts This Year. Here Are 3 Money-Burning Mistakes (And How to Fix Them)
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I've Audited 100+ Facebook Ad Accounts This Year. Here Are 3 Money-Burning Mistakes (And How to Fix Them)'.
+
+Answer: 
+
+================================================================================
+

@@ -1,0 +1,259 @@
+Extreme Sentiment Divergence Days for 2024-06
+==================================================
+
+Date: 2024-06-28
+News sentiment: -1.1062, Reddit sentiment: 0.8715
+Absolute difference: 1.9778
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Instagram CEO Reveals 5 Secrets For Engagement And Success
+
+Article 2
+Title: 'TikTok Applies For "Genie" Trademark In U.S....
+
+Article 3
+Title: "Mark Zuckerberg Is 'Almost Ready' To Reveal ...
+
+Article 4
+Title: Huge Post Debate Uncertainty For Investors, New Data On Fed's Favorite Inflation Gauge And Personal Spending
+
+Article 5
+Title: Market Clubhouse Morning Memo - June 28th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA)
+
+Article 6
+Title: Happy Birthday Elon Musk: 53 Facts And Figures About Tesla, SpaceX CEO On His 53rd Birthday
+
+Article 7
+Title: Mark Zuckerberg's Meta Warns It May Block News Content In Australia If Asked To Pay Licensing Fees
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: neutral
+Title: I am unable to load comments on my Facebook feed. I just get taken to a blank page. Why might this be happening, please?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I am unable to load comments on my Facebook feed. I just get taken to a blank page. Why might this be happening, please?'.
+
+Answer: 
+
+================================================================================
+
+Date: 2024-06-27
+News sentiment: -0.8583, Reddit sentiment: 0.5087
+Absolute difference: 1.3670
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: What's Going On With Meta Platforms Stock?
+
+Article 2
+Title: Amazon, Pinterest, Wayfair Top List Of 7 Stocks Bank Of America Says To Watch In Second Half Of 2024
+
+Article 3
+Title: AI Stocks Show Asymmetry On Expectations Proving Too High, Wall Street Preps For Presidential Debate
+
+Article 4
+Title: U.S. Appeals Court Says Meta Platforms Must F...
+
+Article 5
+Title: GDP Growth Upwardly Revised In Q1 But Consumer Spending Weakens, Continuing Jobless Claims Hit Nearly 3-Year Highs: Thursday's Economic Digest
+
+Article 6
+Title: Meta Platforms's Options: A Look at What the Big Money is Thinking
+
+Article 7
+Title: 'In a Surprise, OpenAI Is Selling More of Its...
+
+No Reddit posts found for this date.
+
+================================================================================
+
+Date: 2024-06-25
+News sentiment: -0.5594, Reddit sentiment: 0.2927
+Absolute difference: 0.8521
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Investors Worry How Trump Tariffs Could Further Impact Companies Reliant On Chinese Suppliers: Vulnerable Stocks 'Have Underperformed' This Year
+
+Article 2
+Title: Nvidia Bounces After Touching Mini Support, Wait For Micron Earnings, Airbus Falters
+
+Article 3
+Title: GameStop's Short Squeeze Anniversary: A Look Back At David Vs. Goliath Battle And What's Next (CORRECTED)
+
+Article 4
+Title: Meta Vs. Alphabet: Meta Accelerates On AI While Google Has Revenue, Earnings Advantage, Bank Of America Says
+
+Article 5
+Title: Micron Presents Opportunity Driver By Artificial Intelligence But Be Careful
+
+Article 6
+Title: Market Clubhouse Morning Memo - June 25th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA)
+
+Article 7
+Title: Here's How Much You Would Have Made Owning Meta Platforms Stock In The Last 10 Years
+
+Article 8
+Title: Mark Zuckerberg's Meta Faces Backlash For Mislabeling Real Photos As 'Made With AI'
+
+Article 9
+Title: Dan Ives Says The 'Golden Goose' For Meta Is Apple Intelligence: 'Right Now You're On The Outside Of This Party…'
+
+Article 10
+Title: Apple Reportedly Said No To Meta's Offer For iPhone AI Integration Due To Privacy Policy Concerns
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: neutral
+Title: Is there any logical explanation as to why Facebook seems has random 10x ROAS days?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Is there any logical explanation as to why Facebook seems has random 10x ROAS days?'.
+
+Answer: 
+
+Post 2
+Sentiment: neutral
+Title: What’s currently working well for me on Meta (Facebook) ads
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'What’s currently working well for me on Meta (Facebook) ads'.
+
+Answer: 
+
+================================================================================
+
+Date: 2024-06-04
+News sentiment: 0.6394, Reddit sentiment: 0.0387
+Absolute difference: 0.6007
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Nvidia, AMD Chips To Get Dearer as Taiwan Semi Eyes AI Chip Price Hike
+
+Article 2
+Title: Microsoft Forges Billion-Dollar AI Deal With Hitachi
+
+Article 3
+Title: Shutterstock Expands AI Horizons: New Partnership with Reka AI to Enhance Digital Asset Metadata
+
+Article 4
+Title: Growth Fears Seeping Into The Stock Market – Nvidia's Rubin And Rate Cut Hope Help The Stock Market
+
+Article 5
+Title: Market Clubhouse Morning Memo - June 4th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA)
+
+Article 6
+Title: Broadcom, Marvell Capitalize On Generative AI Demand With Custom ASIC Solutions
+
+Article 7
+Title: Meta's AI Chief Yann Lecun Refutes Misinformation As Business Model Accusations, Expresses Disagreement With Elon Musk: 'Prejudice Based On Outdated Data'
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: negative
+Title: Audited Facebook Ad Account That Spent $15,895.06 In Last Two Months With 1.38 ROAS. ( Business is burning money and here is why)
+
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Audited Facebook Ad Account That Spent $15,895.06 In Last Two Months With 1.38 ROAS. ( Business is burning money and here is why)
+'.
+
+Answer: 
+
+Post 2
+Sentiment: neutral
+Title: Looking to get RMG Approval on Meta legitmately? We have you covered!
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Looking to get RMG Approval on Meta legitmately? We have you covered!'.
+
+Answer: 
+
+Post 3
+Sentiment: neutral
+Title: My Facebook posts are also posting to my Threads account and I don't know why
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'My Facebook posts are also posting to my Threads account and I don't know why'.
+
+Answer: 
+
+Post 4
+Sentiment: neutral
+Title: How does the creepy "I just talked about this" facebook targeting work?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How does the creepy "I just talked about this" facebook targeting work?'.
+
+Answer: 
+
+Post 5
+Sentiment: neutral
+Title: Where can I hire a Meta Ads expert to help me? fiverr or somewhere else?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Where can I hire a Meta Ads expert to help me? fiverr or somewhere else?'.
+
+Answer: 
+
+================================================================================
+
+Date: 2024-06-11
+News sentiment: 0.7228, Reddit sentiment: 0.1442
+Absolute difference: 0.5786
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Is Meta Next For A Stock Split? Speculation Grows as Stock Surges Over 450% From 2022 Lows
+
+Article 2
+Title: AI Will Save Time, Revolutionize Advertising, Says Cathie Wood's ARK Invest Report
+
+Article 3
+Title: Senators Introduce Bipartisan Bill To Establi...
+
+Article 4
+Title: Nvidia Stock Split Might Not Lead To Sustained Rally, But It Could Replace Intel In Dow Index
+
+Article 5
+Title: CNBC Halftime Report Final Trades: Uber Techn...
+
+Article 6
+Title: A Rare Data Day Ahead — Stock Market Has The Potential To Fly Or Fall
+
+Article 7
+Title: Broadcom Q2 Earnings Preview: AI-Related Revenue In Focus, Will Partnerships With Meta, Google Shine Through In Results, Guidance?
+
+Article 8
+Title: Meta Harnesses European Data To Train AI Amidst A 40% Year-To-Date Surge That Is Near To Breaking Record Highs
+
+Article 9
+Title: Apple, Meta, Celsius, Eli Lilly, Tesla: Why These 5 Stocks Are On Investors' Radars Today
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: negative
+Title: Facebook ads gone downhill since the start of April
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook ads gone downhill since the start of April'.
+
+Answer: 
+
+Post 2
+Sentiment: negative
+Title: Facebook allows fully explicit pornographic ads
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook allows fully explicit pornographic ads'.
+
+Answer: 
+
+Post 3
+Sentiment: negative
+Title: At what point do we start claiming fraud against Meta's reporting system? This is getting out of hand. 
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'At what point do we start claiming fraud against Meta's reporting system? This is getting out of hand. '.
+
+Answer: 
+
+Post 4
+Sentiment: positive
+Title: Meta up 473% From November to Today
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta up 473% From November to Today'.
+
+Answer: 
+
+================================================================================
+

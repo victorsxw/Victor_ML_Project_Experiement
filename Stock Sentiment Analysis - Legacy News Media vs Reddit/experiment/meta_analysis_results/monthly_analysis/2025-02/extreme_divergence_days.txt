@@ -1,0 +1,2044 @@
+Extreme Sentiment Divergence Days for 2025-02
+==================================================
+
+Date: 2025-02-28
+News sentiment: -0.2525, Reddit sentiment: 1.2890
+Absolute difference: 1.5415
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Understanding Meta Platforms's Position In Interactive Media & Services Industry Compared To Competitors
+
+Article 2
+Title: Activist Investor ValueAct, Once Linked To Steve Ballmer's Microsoft Exit, Bought Meta, Visa, Sold Spotify In Q3: A Smart Bet?
+
+Article 3
+Title: 'This Is As Good As It Gets For Nvidia:' Analyst Says Jensen Huang-Led Chipmaker's Explosive Growth May Have Peaked As NVDA Stock Falls 13% This Year
+
+Article 4
+Title: Elon Musk Blasts Delaware Court After $100B Pay Package Rejected – Sparks Corporate Exodus Threat
+
+Article 5
+Title: Mark Zuckerberg's Meta Wants To Do An AI App But Sam Altman Wants To Pull A 'Reverse Uno' Card: 'Maybe We'll Do A Social App'
+
+Article 6
+Title: Apollo Global Management In Talks To Lead $35 Billion Financing For Meta's AI Data Centers
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: neutral
+Title: Hi! I need help help blocking someone who blocked me first on facebook
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Hi! I need help help blocking someone who blocked me first on facebook'.
+
+Answer: 
+
+Post 2
+Sentiment: neutral
+Title: If there are any facebook content creators for fb bonus here i have a wonderful new
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'If there are any facebook content creators for fb bonus here i have a wonderful new'.
+
+Answer: 
+
+Post 3
+Sentiment: neutral
+Title: My buddy Facebook is adding people in group chats but he says it’s not him doing it ?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'My buddy Facebook is adding people in group chats but he says it’s not him doing it ?'.
+
+Answer: 
+
+Post 4
+Sentiment: neutral
+Title: Can log into Facebook automatically from phone, but can't change password or deactivate.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Can log into Facebook automatically from phone, but can't change password or deactivate.'.
+
+Answer: 
+
+Post 5
+Sentiment: neutral
+Title: How to Bulletproof your Brand using Facebook Ads (and become a rainmaker)
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How to Bulletproof your Brand using Facebook Ads (and become a rainmaker)'.
+
+Answer: 
+
+Post 6
+Sentiment: neutral
+Title: My highest-converting Facebook ads all have the same strategies implemented in them since 2021 and have been used on brands around $10k per month to scale them well past $50k.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'My highest-converting Facebook ads all have the same strategies implemented in them since 2021 and have been used on brands around $10k per month to scale them well past $50k.'.
+
+Answer: 
+
+Post 7
+Sentiment: negative
+Title: Issue with starting my Facebook account: I am being suspended for some unknown reason?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Issue with starting my Facebook account: I am being suspended for some unknown reason?'.
+
+Answer: 
+
+Post 8
+Sentiment: negative
+Title: Facebook Ads Showing Too Often
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook Ads Showing Too Often'.
+
+Answer: 
+
+Post 9
+Sentiment: neutral
+Title: Why Am I Getting a "Deceptive Link" Error on My Facebook Ad?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Why Am I Getting a "Deceptive Link" Error on My Facebook Ad?'.
+
+Answer: 
+
+Post 10
+Sentiment: neutral
+Title: Anyone else notice a discrepancy between their meta link clicks and landing page views and their actual website/store analytics?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Anyone else notice a discrepancy between their meta link clicks and landing page views and their actual website/store analytics?'.
+
+Answer: 
+
+Post 11
+Sentiment: negative
+Title: Dear Meta, please stop allowing this type of content on your social media platforms!
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Dear Meta, please stop allowing this type of content on your social media platforms!'.
+
+Answer: 
+
+Post 12
+Sentiment: neutral
+Title: Meta ads credit line
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta ads credit line'.
+
+Answer: 
+
+Post 13
+Sentiment: neutral
+Title: I'm in Facebook jail.  Am I right assuming it's one of my friends reporting me?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I'm in Facebook jail.  Am I right assuming it's one of my friends reporting me?'.
+
+Answer: 
+
+Post 14
+Sentiment: neutral
+Title: iPhone Facebook lock screen notifications won't go away if read from a browser
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'iPhone Facebook lock screen notifications won't go away if read from a browser'.
+
+Answer: 
+
+Post 15
+Sentiment: negative
+Title: Account Temporarily Unavailable on Facebook - unable to login, stuck.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Account Temporarily Unavailable on Facebook - unable to login, stuck.'.
+
+Answer: 
+
+Post 16
+Sentiment: neutral
+Title: Struggling with Facebook Ad Testing for My Jewelry Store
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Struggling with Facebook Ad Testing for My Jewelry Store'.
+
+Answer: 
+
+Post 17
+Sentiment: neutral
+Title: Says I need to connect Facebook page but I have an Instagram page selected
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Says I need to connect Facebook page but I have an Instagram page selected'.
+
+Answer: 
+
+Post 18
+Sentiment: negative
+Title: Forgot my password but Facebook isn’t sending a code to email. Tried a few times and now it’s saying I’m violating their rules
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Forgot my password but Facebook isn’t sending a code to email. Tried a few times and now it’s saying I’m violating their rules'.
+
+Answer: 
+
+Post 19
+Sentiment: negative
+Title: Political Ads and Meta Business manager problem. Can’t publish an ad
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Political Ads and Meta Business manager problem. Can’t publish an ad'.
+
+Answer: 
+
+Post 20
+Sentiment: neutral
+Title: How are meta ads performing at this time?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How are meta ads performing at this time?'.
+
+Answer: 
+
+Post 21
+Sentiment: neutral
+Title: I paused my Meta campaigns for 3 months while I optimized my website. When I restart should I use a different pixel?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I paused my Meta campaigns for 3 months while I optimized my website. When I restart should I use a different pixel?'.
+
+Answer: 
+
+Post 22
+Sentiment: neutral
+Title: Can we have a poll on what percentage of users are having instabilities with facebook ads?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Can we have a poll on what percentage of users are having instabilities with facebook ads?'.
+
+Answer: 
+
+Post 23
+Sentiment: negative
+Title: My Facebook account got hacked and 2fa was enabled now when I try to login it won’t let me with out a code I can’t access
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'My Facebook account got hacked and 2fa was enabled now when I try to login it won’t let me with out a code I can’t access'.
+
+Answer: 
+
+Post 24
+Sentiment: neutral
+Title: Can I Hide a Facebook page? I have to do live but I don’t want it public
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Can I Hide a Facebook page? I have to do live but I don’t want it public'.
+
+Answer: 
+
+Post 25
+Sentiment: neutral
+Title: Recommend a payment solution for Facebook
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Recommend a payment solution for Facebook'.
+
+Answer: 
+
+Post 26
+Sentiment: neutral
+Title: How do you get back Facebook dating in the app after deleting it?  Where did it go?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How do you get back Facebook dating in the app after deleting it?  Where did it go?'.
+
+Answer: 
+
+Post 27
+Sentiment: neutral
+Title: Facebook pixel only show graph
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook pixel only show graph'.
+
+Answer: 
+
+Post 28
+Sentiment: negative
+Title: Is meta support not working because I've tried to contact them and it's saying "something went wrong, try again later."
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Is meta support not working because I've tried to contact them and it's saying "something went wrong, try again later."'.
+
+Answer: 
+
+Post 29
+Sentiment: neutral
+Title: ABOUT THIS DARK MOMENT OF META ADS
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'ABOUT THIS DARK MOMENT OF META ADS'.
+
+Answer: 
+
+Post 30
+Sentiment: neutral
+Title: My facebook was hacked and another account was added onto it. I regained the control and clicked the delete on the account but the thirty days hasnt passed yet. I'm wondering if the hacker will still be able to somehow access my facebook through that account?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'My facebook was hacked and another account was added onto it. I regained the control and clicked the delete on the account but the thirty days hasnt passed yet. I'm wondering if the hacker will still be able to somehow access my facebook through that account?'.
+
+Answer: 
+
+Post 31
+Sentiment: negative
+Title: Daily Deletion of friends added to Facebook, literally, one deletes you daily. Facebook bug or error?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Daily Deletion of friends added to Facebook, literally, one deletes you daily. Facebook bug or error?'.
+
+Answer: 
+
+Post 32
+Sentiment: neutral
+Title: i was earning ads on reels back 2023 and someone reported me which facebook remove my privilege. I have submitted another form 2024 but no progress despite i kept posting consistently with no issues of reports or violations. is there a way to get my access back?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'i was earning ads on reels back 2023 and someone reported me which facebook remove my privilege. I have submitted another form 2024 but no progress despite i kept posting consistently with no issues of reports or violations. is there a way to get my access back?'.
+
+Answer: 
+
+Post 33
+Sentiment: neutral
+Title: Confused if my post is still pending or if it has been declined on a Facebook group? When I go on the group it says 'Declined post' but when I click on 'Manage Posts' it says 'pending'?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Confused if my post is still pending or if it has been declined on a Facebook group? When I go on the group it says 'Declined post' but when I click on 'Manage Posts' it says 'pending'?'.
+
+Answer: 
+
+Post 34
+Sentiment: neutral
+Title: I am 18, but facebook won't let me use marketplace. Everytime I try to verify my identity, it pops up that the device I'm using is "not usually used" even though its the only one I use.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I am 18, but facebook won't let me use marketplace. Everytime I try to verify my identity, it pops up that the device I'm using is "not usually used" even though its the only one I use.'.
+
+Answer: 
+
+Post 35
+Sentiment: neutral
+Title: Facebook WhatsApp confirmation code not being received, need advice.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook WhatsApp confirmation code not being received, need advice.'.
+
+Answer: 
+
+Post 36
+Sentiment: neutral
+Title: Does posting on Facebook to combat Fox News, NewsMax, and The White House do any good?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Does posting on Facebook to combat Fox News, NewsMax, and The White House do any good?'.
+
+Answer: 
+
+Post 37
+Sentiment: neutral
+Title: How do I get access to Facebook Marketplace after disabling my main account?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How do I get access to Facebook Marketplace after disabling my main account?'.
+
+Answer: 
+
+Post 38
+Sentiment: negative
+Title: Does anyone has an idea of how to solve this META NIGHTMARE!
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Does anyone has an idea of how to solve this META NIGHTMARE!'.
+
+Answer: 
+
+Post 39
+Sentiment: neutral
+Title: Is meta testing Reel ads with Dyanamic Product Catalogue?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Is meta testing Reel ads with Dyanamic Product Catalogue?'.
+
+Answer: 
+
+Post 40
+Sentiment: neutral
+Title: Federal Aviation Administration is running ads on Facebook to hire new employees after layoffs.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Federal Aviation Administration is running ads on Facebook to hire new employees after layoffs.'.
+
+Answer: 
+
+Post 41
+Sentiment: neutral
+Title: MetaAI not generating images exclusively for my account but working for others
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'MetaAI not generating images exclusively for my account but working for others'.
+
+Answer: 
+
+Post 42
+Sentiment: negative
+Title: I was hacked and then suspended/disabled from Facebook & Instagram. Help!
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I was hacked and then suspended/disabled from Facebook & Instagram. Help!'.
+
+Answer: 
+
+Post 43
+Sentiment: neutral
+Title: I have a private Facebook group with content on buying and selling sports shoes
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I have a private Facebook group with content on buying and selling sports shoes'.
+
+Answer: 
+
+Post 44
+Sentiment: negative
+Title: FACEBOOK ADS ACCOUNT WAS HACKED AND DISABLED
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'FACEBOOK ADS ACCOUNT WAS HACKED AND DISABLED'.
+
+Answer: 
+
+Post 45
+Sentiment: neutral
+Title: I am not able to post anonymously in Facebook groups. Does anyone know why that might be?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I am not able to post anonymously in Facebook groups. Does anyone know why that might be?'.
+
+Answer: 
+
+Post 46
+Sentiment: neutral
+Title: Meta Test Events pixel not firing
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta Test Events pixel not firing'.
+
+Answer: 
+
+================================================================================
+
+Date: 2025-02-27
+News sentiment: 0.0129, Reddit sentiment: 1.2318
+Absolute difference: 1.2189
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: 'Meta In Talks To Raise $35B For Data-Center ...
+
+Article 2
+Title: Italy's PM Meloni's Office Says PM Meloni Met...
+
+Article 3
+Title: Assessing Meta Platforms's Performance Against Competitors In Interactive Media & Services Industry
+
+Article 4
+Title: Google-Parent Alphabet Gets Slapped With New Fee By Canada To Fund Online News Act —  Tech Policy Tensions Escalate
+
+Article 5
+Title: Meta Boosts Executive Bonuses To 200% As It Slashes 5% Of Workforce—Laid-Off Employees Call It 'Unfair'
+
+Article 6
+Title: AppLovin Stock Drops On Multiple Short Reports: Allegations Of Copying Meta, Creating 'Smoke And Mirrors Game' (UPDATED)
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: neutral
+Title: Facebook Ad Cpm/Ecom🙏
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook Ad Cpm/Ecom🙏'.
+
+Answer: 
+
+Post 2
+Sentiment: neutral
+Title: Someone is using my content on Facebook and my pictures pretending to be me ! Help
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Someone is using my content on Facebook and my pictures pretending to be me ! Help'.
+
+Answer: 
+
+Post 3
+Sentiment: negative
+Title: How much hate have you discovered in your time on Facebook? Individuals are getting crazier.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How much hate have you discovered in your time on Facebook? Individuals are getting crazier.'.
+
+Answer: 
+
+Post 4
+Sentiment: neutral
+Title: What happened to Facebook, is anyone face this same problem like me?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'What happened to Facebook, is anyone face this same problem like me?'.
+
+Answer: 
+
+Post 5
+Sentiment: neutral
+Title: Facebook down today? Seeing this error for the first time. Anyone else seeing it?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook down today? Seeing this error for the first time. Anyone else seeing it?'.
+
+Answer: 
+
+Post 6
+Sentiment: neutral
+Title: is facebook down right now for everyone else too? (February 26, 2025)
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'is facebook down right now for everyone else too? (February 26, 2025)'.
+
+Answer: 
+
+Post 7
+Sentiment: negative
+Title: FACEBOOK IS DOWN! FACEBOOK IS DOWN! Help me! What ever will I do? Noooooooooooo!
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'FACEBOOK IS DOWN! FACEBOOK IS DOWN! Help me! What ever will I do? Noooooooooooo!'.
+
+Answer: 
+
+Post 8
+Sentiment: negative
+Title: Hello can some one please help me?   my facebook ads account was hacked
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Hello can some one please help me?   my facebook ads account was hacked'.
+
+Answer: 
+
+Post 9
+Sentiment: neutral
+Title: I am looking to purchase or get free aged Facebook account in the US. couple month old only
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I am looking to purchase or get free aged Facebook account in the US. couple month old only'.
+
+Answer: 
+
+Post 10
+Sentiment: negative
+Title: Facebook down across the world according to news sources in the US by Kat
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook down across the world according to news sources in the US by Kat'.
+
+Answer: 
+
+Post 11
+Sentiment: negative
+Title: I had this issue about 3 days ago, that just wasnt facebook, also got down instagram, Threads, everything even my whatsapp account linked to this facebook account, I didnt post or commented anything in the past 5 days before this happened, tried to contact support for some explanation but got nothin
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I had this issue about 3 days ago, that just wasnt facebook, also got down instagram, Threads, everything even my whatsapp account linked to this facebook account, I didnt post or commented anything in the past 5 days before this happened, tried to contact support for some explanation but got nothin'.
+
+Answer: 
+
+Post 12
+Sentiment: neutral
+Title: Are there read receipts in Facebook dating? I read her messages but I’m tired and don’t feel like responding
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Are there read receipts in Facebook dating? I read her messages but I’m tired and don’t feel like responding'.
+
+Answer: 
+
+Post 13
+Sentiment: neutral
+Title: My birthday is right around the corner, but I don’t want Facebook to notify my friends that it is coming up.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'My birthday is right around the corner, but I don’t want Facebook to notify my friends that it is coming up.'.
+
+Answer: 
+
+Post 14
+Sentiment: neutral
+Title: I am having login issues with Facebook. I am logged in on my phone, but cant get logged in on my PC.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I am having login issues with Facebook. I am logged in on my phone, but cant get logged in on my PC.'.
+
+Answer: 
+
+Post 15
+Sentiment: neutral
+Title: Facebook Business
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook Business'.
+
+Answer: 
+
+Post 16
+Sentiment: neutral
+Title: Harmless work messages to "Facebook user" "unavailable on messenger" and chat moved to archive?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Harmless work messages to "Facebook user" "unavailable on messenger" and chat moved to archive?'.
+
+Answer: 
+
+Post 17
+Sentiment: negative
+Title: Meta Ads campaign issue
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta Ads campaign issue'.
+
+Answer: 
+
+Post 18
+Sentiment: neutral
+Title: Recovered my Facebook acct, but it's locked in with the hackers name for 60 days
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Recovered my Facebook acct, but it's locked in with the hackers name for 60 days'.
+
+Answer: 
+
+Post 19
+Sentiment: negative
+Title: Meta Wasting my money🥲
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta Wasting my money🥲'.
+
+Answer: 
+
+Post 20
+Sentiment: neutral
+Title: I need a Facebook account for my e-commerce business/J'ai besoin d'un compte Facebook pour mon activité e-commerce
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I need a Facebook account for my e-commerce business/J'ai besoin d'un compte Facebook pour mon activité e-commerce'.
+
+Answer: 
+
+Post 21
+Sentiment: neutral
+Title: Was there any outreach occured with meta in past 24hr?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Was there any outreach occured with meta in past 24hr?'.
+
+Answer: 
+
+Post 22
+Sentiment: neutral
+Title: How can I remove these active Facebook Business Pages from my personal Facebook account?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How can I remove these active Facebook Business Pages from my personal Facebook account?'.
+
+Answer: 
+
+Post 23
+Sentiment: neutral
+Title: Is Facebook Still Alive Like the Good Old Days of 2012-2013 or lost its soul?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Is Facebook Still Alive Like the Good Old Days of 2012-2013 or lost its soul?'.
+
+Answer: 
+
+Post 24
+Sentiment: neutral
+Title: I decided to give the MetaAI function a try to see what it was like.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I decided to give the MetaAI function a try to see what it was like.'.
+
+Answer: 
+
+Post 25
+Sentiment: negative
+Title: My personal Facebook has been hacked and then banned which has lost me access to my business page is there anything I can do to get it back?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'My personal Facebook has been hacked and then banned which has lost me access to my business page is there anything I can do to get it back?'.
+
+Answer: 
+
+Post 26
+Sentiment: neutral
+Title: Cannot crest a new Facebook account
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Cannot crest a new Facebook account'.
+
+Answer: 
+
+Post 27
+Sentiment: neutral
+Title: Need help to get access to my Facebook page - Lost e-mail and password
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Need help to get access to my Facebook page - Lost e-mail and password'.
+
+Answer: 
+
+Post 28
+Sentiment: neutral
+Title: deleted my Facebook account can someone help me with the question below?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'deleted my Facebook account can someone help me with the question below?'.
+
+Answer: 
+
+Post 29
+Sentiment: neutral
+Title: Looking for an facebook/Instagram Influencer Partner to Boost Sales (Commission-Based)
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Looking for an facebook/Instagram Influencer Partner to Boost Sales (Commission-Based)'.
+
+Answer: 
+
+Post 30
+Sentiment: negative
+Title: Facebook Marketplace has been suspended any solution for marketplace
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook Marketplace has been suspended any solution for marketplace'.
+
+Answer: 
+
+Post 31
+Sentiment: neutral
+Title: Having trouble closing Facebooks accounts for my mother who passed away last September
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Having trouble closing Facebooks accounts for my mother who passed away last September'.
+
+Answer: 
+
+Post 32
+Sentiment: neutral
+Title: Why Do My Facebook Ads Perform Inconsistently?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Why Do My Facebook Ads Perform Inconsistently?'.
+
+Answer: 
+
+Post 33
+Sentiment: neutral
+Title: why my facebook page was limited & cant change name without any violations,penalty? Any body know how to solve?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'why my facebook page was limited & cant change name without any violations,penalty? Any body know how to solve?'.
+
+Answer: 
+
+Post 34
+Sentiment: neutral
+Title: Facebook Won’t Let Me Friend Request Someone I Actually Know – And Now My Message Is Stuck in Spam!
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook Won’t Let Me Friend Request Someone I Actually Know – And Now My Message Is Stuck in Spam!'.
+
+Answer: 
+
+Post 35
+Sentiment: negative
+Title: Can I bribe/pay someone in facebook to unban me? How can I bypass this restriction? WHY AM I BANNED FOR A YEAR?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Can I bribe/pay someone in facebook to unban me? How can I bypass this restriction? WHY AM I BANNED FOR A YEAR?'.
+
+Answer: 
+
+Post 36
+Sentiment: negative
+Title: Just noticed my FB posts with videos being removed, meta, Zuckerberg, dicks
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Just noticed my FB posts with videos being removed, meta, Zuckerberg, dicks'.
+
+Answer: 
+
+Post 37
+Sentiment: neutral
+Title: How do I get Meta to distribute budget to new ads?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How do I get Meta to distribute budget to new ads?'.
+
+Answer: 
+
+Post 38
+Sentiment: neutral
+Title: Facebook error on "REVIEW RECENT POSTS AND LIKES" leads to endless error
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook error on "REVIEW RECENT POSTS AND LIKES" leads to endless error'.
+
+Answer: 
+
+Post 39
+Sentiment: negative
+Title: How does Facebook not filter Scammers?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How does Facebook not filter Scammers?'.
+
+Answer: 
+
+Post 40
+Sentiment: negative
+Title: No cast button on Facebook app for iPhone and local network says “not allowed”
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'No cast button on Facebook app for iPhone and local network says “not allowed”'.
+
+Answer: 
+
+Post 41
+Sentiment: neutral
+Title: Meta Ad Library
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta Ad Library'.
+
+Answer: 
+
+Post 42
+Sentiment: neutral
+Title: Facebook refreshing when I am reading a post.  Anyway of getting it back?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook refreshing when I am reading a post.  Anyway of getting it back?'.
+
+Answer: 
+
+Post 43
+Sentiment: neutral
+Title: My sisters account got hacked and they have full control of her account. Can someone plz help with steps on what to do to get her account back ? #facebook
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'My sisters account got hacked and they have full control of her account. Can someone plz help with steps on what to do to get her account back ? #facebook'.
+
+Answer: 
+
+Post 44
+Sentiment: negative
+Title: I’ve been hacked and Facebook isn’t helping. Why is it so hard to get support from them?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I’ve been hacked and Facebook isn’t helping. Why is it so hard to get support from them?'.
+
+Answer: 
+
+Post 45
+Sentiment: neutral
+Title: Client is locked out of Facebook account, but ads are still running and the client is still paying. How do we get them back in?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Client is locked out of Facebook account, but ads are still running and the client is still paying. How do we get them back in?'.
+
+Answer: 
+
+Post 46
+Sentiment: negative
+Title: Meta admits Instagram error flooded Reels with violent and pornographic content
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta admits Instagram error flooded Reels with violent and pornographic content'.
+
+Answer: 
+
+Post 47
+Sentiment: neutral
+Title: Facebook is not allowing me to change/delete my primary "dead" email address, nor letting me add a new email address.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook is not allowing me to change/delete my primary "dead" email address, nor letting me add a new email address.'.
+
+Answer: 
+
+Post 48
+Sentiment: neutral
+Title: What’s good practice to get sales and consistent sales when using Facebook CBO’s especially on a new pixel with limited data?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'What’s good practice to get sales and consistent sales when using Facebook CBO’s especially on a new pixel with limited data?'.
+
+Answer: 
+
+Post 49
+Sentiment: neutral
+Title: Getting my mom's Facebook back and memorialized? Can someone tell me how to contact them?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Getting my mom's Facebook back and memorialized? Can someone tell me how to contact them?'.
+
+Answer: 
+
+Post 50
+Sentiment: neutral
+Title: Meta Ads School Community for LeadGen?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta Ads School Community for LeadGen?'.
+
+Answer: 
+
+Post 51
+Sentiment: negative
+Title: Message from Meta that Facebook Account was being Permanently Removed #FacebookIrrelevant
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Message from Meta that Facebook Account was being Permanently Removed #FacebookIrrelevant'.
+
+Answer: 
+
+Post 52
+Sentiment: negative
+Title: Messed Up Meta Content + Awful Results
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Messed Up Meta Content + Awful Results'.
+
+Answer: 
+
+Post 53
+Sentiment: negative
+Title: Meta is firing about 20 employees for leaking - ﻿The company says “we expect there will be more” firings after a string of recent leaks.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta is firing about 20 employees for leaking - ﻿The company says “we expect there will be more” firings after a string of recent leaks.'.
+
+Answer: 
+
+Post 54
+Sentiment: neutral
+Title: Want to learn Facebook ads
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Want to learn Facebook ads'.
+
+Answer: 
+
+Post 55
+Sentiment: neutral
+Title: why is my facebook post not getting any likes or reactions? 600 followers+
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'why is my facebook post not getting any likes or reactions? 600 followers+'.
+
+Answer: 
+
+Post 56
+Sentiment: negative
+Title: Fake Facebook Support Number—Don't Bother to Call It is a Fake Support Center
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Fake Facebook Support Number—Don't Bother to Call It is a Fake Support Center'.
+
+Answer: 
+
+Post 57
+Sentiment: neutral
+Title: Facebook (Meta business suite) post scheduler not working since yesterday
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook (Meta business suite) post scheduler not working since yesterday'.
+
+Answer: 
+
+Post 58
+Sentiment: neutral
+Title: Facebook Freezeout April 18: please spread the word and say no to the Metaverse
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook Freezeout April 18: please spread the word and say no to the Metaverse'.
+
+Answer: 
+
+Post 59
+Sentiment: neutral
+Title: I am looking to hire a Facebook ads specialist.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I am looking to hire a Facebook ads specialist.'.
+
+Answer: 
+
+Post 60
+Sentiment: negative
+Title: Meta Business Manager Won’t Let Me Delete My Business Portfolio – Stuck in an Infinite Loop
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta Business Manager Won’t Let Me Delete My Business Portfolio – Stuck in an Infinite Loop'.
+
+Answer: 
+
+Post 61
+Sentiment: negative
+Title: Facebook pixel "Content ID mismatch" error is damaging the whole performence since last two weeks
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook pixel "Content ID mismatch" error is damaging the whole performence since last two weeks'.
+
+Answer: 
+
+Post 62
+Sentiment: negative
+Title: Meta is re-classifying businesses & blocking Standard conversion events without alerting anyone
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta is re-classifying businesses & blocking Standard conversion events without alerting anyone'.
+
+Answer: 
+
+Post 63
+Sentiment: neutral
+Title: I deleted every comment, post, and reaction from my Facebook account from the last 15 years. It actually hurt.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I deleted every comment, post, and reaction from my Facebook account from the last 15 years. It actually hurt.'.
+
+Answer: 
+
+Post 64
+Sentiment: neutral
+Title: Facebook "Confirm your identity with a selfie video"-problem (chrome browser)
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook "Confirm your identity with a selfie video"-problem (chrome browser)'.
+
+Answer: 
+
+Post 65
+Sentiment: neutral
+Title: Email address for facebook ads support
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Email address for facebook ads support'.
+
+Answer: 
+
+Post 66
+Sentiment: neutral
+Title: I lost access to my facebook business page while trying to remove business portfolio/business manager
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I lost access to my facebook business page while trying to remove business portfolio/business manager'.
+
+Answer: 
+
+Post 67
+Sentiment: neutral
+Title: facebook shop ads on marketplace
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'facebook shop ads on marketplace'.
+
+Answer: 
+
+Post 68
+Sentiment: negative
+Title: Made me change pass, now wont accept and meta acc is saying im denied access ?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Made me change pass, now wont accept and meta acc is saying im denied access ?'.
+
+Answer: 
+
+Post 69
+Sentiment: neutral
+Title: Facebook suspends new account after not letting me upload profile picture. All it says is there might be an error then when I refresh im suspended. Ive appealed multiple times
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook suspends new account after not letting me upload profile picture. All it says is there might be an error then when I refresh im suspended. Ive appealed multiple times'.
+
+Answer: 
+
+Post 70
+Sentiment: neutral
+Title: How To Send Appointment Booked Data to Facebook Ads Dashboard
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How To Send Appointment Booked Data to Facebook Ads Dashboard'.
+
+Answer: 
+
+Post 71
+Sentiment: negative
+Title: Facebook blocks news sharing on its platforms in Canada #BoycottFacebook
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook blocks news sharing on its platforms in Canada #BoycottFacebook'.
+
+Answer: 
+
+Post 72
+Sentiment: neutral
+Title: can we choose multiple countries for facebook ads?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'can we choose multiple countries for facebook ads?'.
+
+Answer: 
+
+Post 73
+Sentiment: neutral
+Title: I have an issue with my Facebook account. I have an issue; please help me.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I have an issue with my Facebook account. I have an issue; please help me.'.
+
+Answer: 
+
+Post 74
+Sentiment: negative
+Title: Facebook Keeps Deleting Accounts, No Matter What I do and For No Discernible Reason
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook Keeps Deleting Accounts, No Matter What I do and For No Discernible Reason'.
+
+Answer: 
+
+================================================================================
+
+Date: 2025-02-26
+News sentiment: -0.0211, Reddit sentiment: 1.1913
+Absolute difference: 1.2124
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Meta Platforms's Options Frenzy: What You Need to Know
+
+Article 2
+Title: Meta Hit with Lawsuit Claiming It Favors Foreign Workers Over US Citizens — Mark Zuckerberg-Led Tech Giant Calls It 'Baseless'
+
+Article 3
+Title: Meta Gears Up For AI Dominance With $200 Billion Data Center Project: Report
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: neutral
+Title: My facebook account was used to run an Ad I never created, what should i do HELP
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'My facebook account was used to run an Ad I never created, what should i do HELP'.
+
+Answer: 
+
+Post 2
+Sentiment: neutral
+Title: My facebook account was used to run an Ad I never created, what should i do HELP
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'My facebook account was used to run an Ad I never created, what should i do HELP'.
+
+Answer: 
+
+Post 3
+Sentiment: neutral
+Title: Keep getting this error when setting up new Instant Form in Meta: Unknown Error (empty response)
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Keep getting this error when setting up new Instant Form in Meta: Unknown Error (empty response)'.
+
+Answer: 
+
+Post 4
+Sentiment: negative
+Title: Is this Facebook message from meta a scam? I just received it today.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Is this Facebook message from meta a scam? I just received it today.'.
+
+Answer: 
+
+Post 5
+Sentiment: neutral
+Title: I have a question about "other viewers" on a public Facebook story posting.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I have a question about "other viewers" on a public Facebook story posting.'.
+
+Answer: 
+
+Post 6
+Sentiment: neutral
+Title: Anyone know of a way to show a Facebook Album as a slideshow on an unattended TV?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Anyone know of a way to show a Facebook Album as a slideshow on an unattended TV?'.
+
+Answer: 
+
+Post 7
+Sentiment: negative
+Title: Meta Suspended My Verified Facebook Account – No Response for Days!..
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta Suspended My Verified Facebook Account – No Response for Days!..'.
+
+Answer: 
+
+Post 8
+Sentiment: neutral
+Title: How do I get the Facebook algorithm to stop showing me so many accounts I’m not following?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How do I get the Facebook algorithm to stop showing me so many accounts I’m not following?'.
+
+Answer: 
+
+Post 9
+Sentiment: negative
+Title: Facebook Ad Manager Account Disabled, Unable to Request a Review. Can Anyone Help?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook Ad Manager Account Disabled, Unable to Request a Review. Can Anyone Help?'.
+
+Answer: 
+
+Post 10
+Sentiment: neutral
+Title: My Mom Got Hacked On Facebook Anyone Know How To Remove The Whatsapp?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'My Mom Got Hacked On Facebook Anyone Know How To Remove The Whatsapp?'.
+
+Answer: 
+
+Post 11
+Sentiment: negative
+Title: Two Factor Authentication added without consent via Meta Business page
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Two Factor Authentication added without consent via Meta Business page'.
+
+Answer: 
+
+Post 12
+Sentiment: neutral
+Title: double measurement and even triple measurement meta adv+
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'double measurement and even triple measurement meta adv+'.
+
+Answer: 
+
+Post 13
+Sentiment: neutral
+Title: Seeking Advice on Facebook Ads for Service-Based Business
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Seeking Advice on Facebook Ads for Service-Based Business'.
+
+Answer: 
+
+Post 14
+Sentiment: negative
+Title: Facebook Retarget Ads 0 impressions
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook Retarget Ads 0 impressions'.
+
+Answer: 
+
+Post 15
+Sentiment: negative
+Title: Has Meta completely abandoned Facebook at this point? Everything is AI generated nonsense
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Has Meta completely abandoned Facebook at this point? Everything is AI generated nonsense'.
+
+Answer: 
+
+Post 16
+Sentiment: negative
+Title: ATTENTION! Facebook Meta Ads Scam – Unauthorized Charges on Credit Cards!
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'ATTENTION! Facebook Meta Ads Scam – Unauthorized Charges on Credit Cards!'.
+
+Answer: 
+
+Post 17
+Sentiment: neutral
+Title: facebook keeps adding this weird filter to my story automatically, how do i turn it off?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'facebook keeps adding this weird filter to my story automatically, how do i turn it off?'.
+
+Answer: 
+
+Post 18
+Sentiment: neutral
+Title: No access to my Facebook page.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'No access to my Facebook page.'.
+
+Answer: 
+
+Post 19
+Sentiment: negative
+Title: Meta Business Suite Links not working even with resetting cookie/caches different browsers or vpn.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta Business Suite Links not working even with resetting cookie/caches different browsers or vpn.'.
+
+Answer: 
+
+Post 20
+Sentiment: negative
+Title: Facebook Messenger meta pay isn't working its stuck on processing & will not send
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook Messenger meta pay isn't working its stuck on processing & will not send'.
+
+Answer: 
+
+Post 21
+Sentiment: neutral
+Title: Fake AI news stories on Facebook. Now here are some unnecessary filler characters.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Fake AI news stories on Facebook. Now here are some unnecessary filler characters.'.
+
+Answer: 
+
+Post 22
+Sentiment: neutral
+Title: Does Facebook ads track link clicks before Shopify does because my clicks on Facebook seem to be about double what I’m seeing on Shopify so I’m confused?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Does Facebook ads track link clicks before Shopify does because my clicks on Facebook seem to be about double what I’m seeing on Shopify so I’m confused?'.
+
+Answer: 
+
+Post 23
+Sentiment: neutral
+Title: Connect three Instagram accounts in one facebook ads manager
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Connect three Instagram accounts in one facebook ads manager'.
+
+Answer: 
+
+Post 24
+Sentiment: negative
+Title: facebook fan page suspended
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'facebook fan page suspended'.
+
+Answer: 
+
+Post 25
+Sentiment: negative
+Title: Meta is overspending my budget
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta is overspending my budget'.
+
+Answer: 
+
+Post 26
+Sentiment: negative
+Title: Confirmed Facebook is actively scanning faces regardless of account or device
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Confirmed Facebook is actively scanning faces regardless of account or device'.
+
+Answer: 
+
+Post 27
+Sentiment: neutral
+Title: Stuck at here when press next, Meta Verified. Anyone figured out how? Because there is no contact help or such.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Stuck at here when press next, Meta Verified. Anyone figured out how? Because there is no contact help or such.'.
+
+Answer: 
+
+Post 28
+Sentiment: neutral
+Title: Here's how to recover your hacked Facebook account: includes step by step instructions
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Here's how to recover your hacked Facebook account: includes step by step instructions'.
+
+Answer: 
+
+Post 29
+Sentiment: neutral
+Title: I want to ask a question. I receive many notifications containing warnings to close my Facebook page because I violated Facebook’s privacy. Are these messages true or just a lie? Messages are received under different names. I will attach pictures of the messages that are received.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I want to ask a question. I receive many notifications containing warnings to close my Facebook page because I violated Facebook’s privacy. Are these messages true or just a lie? Messages are received under different names. I will attach pictures of the messages that are received.'.
+
+Answer: 
+
+Post 30
+Sentiment: neutral
+Title: $BURU - NUBRURU’s Industrial Blue Lasers Leverage Fundamental Physics and Their High-Brightness, High-Power Design to Produce the Fastest, Highest Quality Laser Materials Processing, Including Laser Welding and Additive Manufacturing of Copper, Gold, Aluminum and Other Industrially Important Metals.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): '$BURU - NUBRURU’s Industrial Blue Lasers Leverage Fundamental Physics and Their High-Brightness, High-Power Design to Produce the Fastest, Highest Quality Laser Materials Processing, Including Laser Welding and Additive Manufacturing of Copper, Gold, Aluminum and Other Industrially Important Metals.'.
+
+Answer: 
+
+Post 31
+Sentiment: neutral
+Title: I need a Facebook account for my e-commerce business/J'ai besoin d'un compte Facebook pour mon activité e-commerce
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I need a Facebook account for my e-commerce business/J'ai besoin d'un compte Facebook pour mon activité e-commerce'.
+
+Answer: 
+
+Post 32
+Sentiment: neutral
+Title: How do you stop notifications/badges only from specific Facebook page(s) in Meta Business Suite?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How do you stop notifications/badges only from specific Facebook page(s) in Meta Business Suite?'.
+
+Answer: 
+
+Post 33
+Sentiment: neutral
+Title: The Facebook center support is not working for me i don't know why. Can anyone help me?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'The Facebook center support is not working for me i don't know why. Can anyone help me?'.
+
+Answer: 
+
+Post 34
+Sentiment: negative
+Title: Facebook Reels keep showing me sexually-suggestive content from IG with no option to report them or stop seeing them
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook Reels keep showing me sexually-suggestive content from IG with no option to report them or stop seeing them'.
+
+Answer: 
+
+Post 35
+Sentiment: neutral
+Title: 🔥 Is Facebook Ads Still the Best Growth Channel in 2025? (Let’s Be Honest) 🔥
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): '🔥 Is Facebook Ads Still the Best Growth Channel in 2025? (Let’s Be Honest) 🔥'.
+
+Answer: 
+
+Post 36
+Sentiment: neutral
+Title: Facebook locked my client out. Need youe help how to contact support.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook locked my client out. Need youe help how to contact support.'.
+
+Answer: 
+
+Post 37
+Sentiment: neutral
+Title: What is wrong with facebook?!!!
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'What is wrong with facebook?!!!'.
+
+Answer: 
+
+Post 38
+Sentiment: neutral
+Title: How does Facebook decide “Relevant” comments? And why on earth can we not change the automatic sorting?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How does Facebook decide “Relevant” comments? And why on earth can we not change the automatic sorting?'.
+
+Answer: 
+
+Post 39
+Sentiment: neutral
+Title: Need help with Aliases Profiles on Facebook, how does it work.  How does it work
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Need help with Aliases Profiles on Facebook, how does it work.  How does it work'.
+
+Answer: 
+
+Post 40
+Sentiment: negative
+Title: Facebook password reset error and no known solutions or support available
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook password reset error and no known solutions or support available'.
+
+Answer: 
+
+Post 41
+Sentiment: neutral
+Title: Rest of Reels - where can my elderly relative find the rest? I can’t work it out since I don’t use Facebook
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Rest of Reels - where can my elderly relative find the rest? I can’t work it out since I don’t use Facebook'.
+
+Answer: 
+
+Post 42
+Sentiment: neutral
+Title: Facebook Ads Stuck? My Winning Creative Stopped Converting, and New Ones Won’t Take Off!
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook Ads Stuck? My Winning Creative Stopped Converting, and New Ones Won’t Take Off!'.
+
+Answer: 
+
+Post 43
+Sentiment: negative
+Title: facebook reactions not working - shows up for a few seconds and disappears, ideas?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'facebook reactions not working - shows up for a few seconds and disappears, ideas?'.
+
+Answer: 
+
+Post 44
+Sentiment: neutral
+Title: The Next Wave of Hypergrowth: Metaverse
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'The Next Wave of Hypergrowth: Metaverse'.
+
+Answer: 
+
+Post 45
+Sentiment: negative
+Title: Mark Zuckerberg & FB have no credit to be investing in AI development
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Mark Zuckerberg & FB have no credit to be investing in AI development'.
+
+Answer: 
+
+Post 46
+Sentiment: neutral
+Title: I can’t find where to upload my id, so I can access Facebook marketplace
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I can’t find where to upload my id, so I can access Facebook marketplace'.
+
+Answer: 
+
+Post 47
+Sentiment: neutral
+Title: Can an old Meta Pixel cause bad ad results?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Can an old Meta Pixel cause bad ad results?'.
+
+Answer: 
+
+Post 48
+Sentiment: neutral
+Title: Facebook is displaying random friends' profiles in my "Following" list.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook is displaying random friends' profiles in my "Following" list.'.
+
+Answer: 
+
+Post 49
+Sentiment: negative
+Title: Facebook 180 days suspended and about to disabled and i can’t get back to it when i press appeal in email about if i don’t appeal
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook 180 days suspended and about to disabled and i can’t get back to it when i press appeal in email about if i don’t appeal'.
+
+Answer: 
+
+Post 50
+Sentiment: neutral
+Title: Getting into Facebook when you don’t know your Google 2FA. Is there a way?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Getting into Facebook when you don’t know your Google 2FA. Is there a way?'.
+
+Answer: 
+
+Post 51
+Sentiment: neutral
+Title: Leaving Facebook only makes me miss how Facebook used to be even more.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Leaving Facebook only makes me miss how Facebook used to be even more.'.
+
+Answer: 
+
+Post 52
+Sentiment: negative
+Title: facebook password reset codes will send, but will not work. i am logged into the account, facebooks just having an aneyurism.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'facebook password reset codes will send, but will not work. i am logged into the account, facebooks just having an aneyurism.'.
+
+Answer: 
+
+Post 53
+Sentiment: neutral
+Title: "Your business account is restricted" series of mails for accounts i didn't create from meta business
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): '"Your business account is restricted" series of mails for accounts i didn't create from meta business'.
+
+Answer: 
+
+Post 54
+Sentiment: negative
+Title: This page scammed my elderly dad out of $200 an Facebook thinks it’s not considered a real threat and won’t take the page down.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'This page scammed my elderly dad out of $200 an Facebook thinks it’s not considered a real threat and won’t take the page down.'.
+
+Answer: 
+
+Post 55
+Sentiment: negative
+Title: Facebook account was hacked and I can’t log in. HELP! I’ve tried everything
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook account was hacked and I can’t log in. HELP! I’ve tried everything'.
+
+Answer: 
+
+Post 56
+Sentiment: neutral
+Title: Multiple accounts not allowed, How does Facebook know that I have more than 1?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Multiple accounts not allowed, How does Facebook know that I have more than 1?'.
+
+Answer: 
+
+Post 57
+Sentiment: negative
+Title: Facebook page suspended for impersonation? Appeal has been declined..
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook page suspended for impersonation? Appeal has been declined..'.
+
+Answer: 
+
+Post 58
+Sentiment: neutral
+Title: Deleting Facebook, but I still want to keep messenger. How do I do it?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Deleting Facebook, but I still want to keep messenger. How do I do it?'.
+
+Answer: 
+
+Post 59
+Sentiment: neutral
+Title: Facebook Business Managers
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook Business Managers'.
+
+Answer: 
+
+Post 60
+Sentiment: neutral
+Title: Does anyone find random strangers on Facebook to be kind of toxic? I keep seeing mean comments, snarky comments, people laugh reacting at serious posts, people picking arguments with people they barely know/don't know?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Does anyone find random strangers on Facebook to be kind of toxic? I keep seeing mean comments, snarky comments, people laugh reacting at serious posts, people picking arguments with people they barely know/don't know?'.
+
+Answer: 
+
+================================================================================
+
+Date: 2025-02-03
+News sentiment: 1.3460, Reddit sentiment: 0.3531
+Absolute difference: 0.9929
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: ETFs Resilient As Markets Face Volatility: Top 5 ETFs With Best Gains From Last Week Amid Macro Shifts
+
+Article 2
+Title: Dan Loeb's Third Point Trims Amazon, Microsoft, Meta As Tech Stocks Climb
+
+Article 3
+Title: President Trump Says We'll Be Doing Something...
+
+Article 4
+Title: Meta Bets Big on Future of Smart Glasses and AI, Outspends Apple and Amazon on AR/VR
+
+Article 5
+Title: Meta Platforms Says Expanding GenAI Transpare...
+
+Article 6
+Title: Samsung's Jay Y. Lee Acquitted, Shifting Focus To Business Challenges
+
+Article 7
+Title: Competitor Analysis: Evaluating Meta Platforms And Competitors In Interactive Media & Services Industry
+
+Article 8
+Title: Nvidia, SMCI, Broadcom, And Other Tech Stocks Slide In Monday Pre-Market As Trump Imposes Tariffs On Imports From China, Mexico, And Canada
+
+Article 9
+Title: TikTok Ban Exposes 'Techno-Feudal' Power: Influencers With Massive Following Should Be Able To Carry Followers Across Platforms, Says Economist
+
+Article 10
+Title: DeepSeek Impact Makes OpenAI Rethink Open Source — Sam Altman Hints At Major Changes In Model Development
+
+Article 11
+Title: CEO Of Norway's Sovereign Wealth Fund Advises Investors To Dump Tech Stocks
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: neutral
+Title: Anyone who does mobile game advertising on Facebook ?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Anyone who does mobile game advertising on Facebook ?'.
+
+Answer: 
+
+Post 2
+Sentiment: neutral
+Title: So many screw meta posts, what's next?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'So many screw meta posts, what's next?'.
+
+Answer: 
+
+Post 3
+Sentiment: neutral
+Title: Canadians, have you noticed your Facebook feed becoming 100% pro-Canada content? Mine changed instantly, almost like it picked up on my thoughts. Feels like social networks might be trying to separate us from Americans. Just an algorithm shift or something bigger? Anyone else seeing this?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Canadians, have you noticed your Facebook feed becoming 100% pro-Canada content? Mine changed instantly, almost like it picked up on my thoughts. Feels like social networks might be trying to separate us from Americans. Just an algorithm shift or something bigger? Anyone else seeing this?'.
+
+Answer: 
+
+Post 4
+Sentiment: neutral
+Title: Cannot login to facebook from every browser (but can login on mobile)
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Cannot login to facebook from every browser (but can login on mobile)'.
+
+Answer: 
+
+Post 5
+Sentiment: neutral
+Title: Meta Business Suite access to verify email
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta Business Suite access to verify email'.
+
+Answer: 
+
+Post 6
+Sentiment: neutral
+Title: Is Facebook Ads conversion lift biased?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Is Facebook Ads conversion lift biased?'.
+
+Answer: 
+
+Post 7
+Sentiment: neutral
+Title: For freelance Facebook Ads Specialists, how do you typically charge your clients?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'For freelance Facebook Ads Specialists, how do you typically charge your clients?'.
+
+Answer: 
+
+Post 8
+Sentiment: neutral
+Title: I need help - Meta ads, strategy, & management for a startup kitchen product
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I need help - Meta ads, strategy, & management for a startup kitchen product'.
+
+Answer: 
+
+Post 9
+Sentiment: negative
+Title: Purchase event just dissapeared from the events manager. I am making sales on shopify but Facebook is not tracking purchases.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Purchase event just dissapeared from the events manager. I am making sales on shopify but Facebook is not tracking purchases.'.
+
+Answer: 
+
+Post 10
+Sentiment: neutral
+Title: How do I contact Facebook support to get my Account back?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How do I contact Facebook support to get my Account back?'.
+
+Answer: 
+
+Post 11
+Sentiment: neutral
+Title: Meta Pixel Event Block
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta Pixel Event Block'.
+
+Answer: 
+
+Post 12
+Sentiment: neutral
+Title: hvac facebook ads
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'hvac facebook ads'.
+
+Answer: 
+
+Post 13
+Sentiment: neutral
+Title: Weekly Facebook Ads Job Board
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Weekly Facebook Ads Job Board'.
+
+Answer: 
+
+Post 14
+Sentiment: negative
+Title: Getting spammed with "User Data Deletion Requests" for our Reporting/Lead Handling Facebook application
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Getting spammed with "User Data Deletion Requests" for our Reporting/Lead Handling Facebook application'.
+
+Answer: 
+
+Post 15
+Sentiment: neutral
+Title: trying to connect my instagram page with my facebook on facebook page but i got an error
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'trying to connect my instagram page with my facebook on facebook page but i got an error'.
+
+Answer: 
+
+Post 16
+Sentiment: neutral
+Title: $BURU - NUBRURU’s Industrial Blue Lasers Leverage Fundamental Physics and Their High-Brightness, High-Power Design to Produce the Fastest, Highest Quality Laser Materials Processing, Including Laser Welding and Additive Manufacturing of Copper, Gold, Aluminum and Other Industrially Important Metals.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): '$BURU - NUBRURU’s Industrial Blue Lasers Leverage Fundamental Physics and Their High-Brightness, High-Power Design to Produce the Fastest, Highest Quality Laser Materials Processing, Including Laser Welding and Additive Manufacturing of Copper, Gold, Aluminum and Other Industrially Important Metals.'.
+
+Answer: 
+
+Post 17
+Sentiment: neutral
+Title: Cannot view anything on Facebook because I won't give them my phone number.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Cannot view anything on Facebook because I won't give them my phone number.'.
+
+Answer: 
+
+Post 18
+Sentiment: neutral
+Title: is it advisable to use facebook sales campaigns for website form submissions that are typically a low amount of conversions? I am averaging a low number of form submissions a month from the website as it's niche.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'is it advisable to use facebook sales campaigns for website form submissions that are typically a low amount of conversions? I am averaging a low number of form submissions a month from the website as it's niche.'.
+
+Answer: 
+
+Post 19
+Sentiment: neutral
+Title: nVidia GeForce RTX 5080 Meta Review
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'nVidia GeForce RTX 5080 Meta Review'.
+
+Answer: 
+
+Post 20
+Sentiment: neutral
+Title: Facebook ads software reviews
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook ads software reviews'.
+
+Answer: 
+
+Post 21
+Sentiment: neutral
+Title: Facebook thinks that my account got hacked but I only changed my password
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook thinks that my account got hacked but I only changed my password'.
+
+Answer: 
+
+================================================================================
+
+Date: 2025-02-24
+News sentiment: 0.2343, Reddit sentiment: 1.2113
+Absolute difference: 0.9770
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: "AI Startup Anthropic Finalizing $3.5B Fundin...
+
+Article 2
+Title: Palantir Extends Losses, Microsoft Slides: What's Driving Markets Monday?
+
+Article 3
+Title: Live On CNBC, Steve Weiss Announces Trimmed M...
+
+Article 4
+Title: 'Please Apply Only If You Are An AI Agent'—Startup Posts Job Listing Specifically For AI, Offering $15K A Year
+
+Article 5
+Title: US Lawmakers Demand EU Clarify Big Tech Regulations That 'May Target American Companies'
+
+Article 6
+Title: Microsoft Cancels Some Data Center Leases, Raises Questions on AI Expansion Strategy
+
+Article 7
+Title: Assessing Meta Platforms's Performance Against Competitors In Interactive Media & Services Industry
+
+Article 8
+Title: Apple Commits $500 Billion In US Investment For AI Push, Boost US Manufacturing Tech
+
+Article 9
+Title: Microsoft Pulls Plug On AI Data Center Leases, Says Analyst: Oversupply Situation Likely
+
+Article 10
+Title: Google, Microsoft, And Meta Linked To $5.4 Billion In Health Costs As AI Data Centers Fuel Pollution Crisis In The US: Report
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: negative
+Title: 17 year old account disabled  because "an Instagram account linked to your Facebook wont follow the rules"
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): '17 year old account disabled  because "an Instagram account linked to your Facebook wont follow the rules"'.
+
+Answer: 
+
+Post 2
+Sentiment: neutral
+Title: Why does Facebook always seem to keep crashing? It’s been happening a ton lately and it’s really making me mad lol
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Why does Facebook always seem to keep crashing? It’s been happening a ton lately and it’s really making me mad lol'.
+
+Answer: 
+
+Post 3
+Sentiment: neutral
+Title: Hi! Is there a subreddit for Facebook Group Owners by chance? I run a group with 11,000 members and could use some insight on how to better run things.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Hi! Is there a subreddit for Facebook Group Owners by chance? I run a group with 11,000 members and could use some insight on how to better run things.'.
+
+Answer: 
+
+Post 4
+Sentiment: neutral
+Title: SOLVED CASE: FACEBOOK ACCOUNT TEMPORARILY UNAVAILABLE /something is not right, account is locked/
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'SOLVED CASE: FACEBOOK ACCOUNT TEMPORARILY UNAVAILABLE /something is not right, account is locked/'.
+
+Answer: 
+
+Post 5
+Sentiment: neutral
+Title: How would you go about filling out the "Special Request for Medically Incapacitated or Deceased Person's Account" if the account says "facebook user"?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How would you go about filling out the "Special Request for Medically Incapacitated or Deceased Person's Account" if the account says "facebook user"?'.
+
+Answer: 
+
+Post 6
+Sentiment: neutral
+Title: Less friends posts on facebook and more ads and algorithms, where is everyone going?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Less friends posts on facebook and more ads and algorithms, where is everyone going?'.
+
+Answer: 
+
+Post 7
+Sentiment: negative
+Title: I lost acess to my Facebook accout. I lost the passwork to my email and I changed phones and my apps didnt transfer
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I lost acess to my Facebook accout. I lost the passwork to my email and I changed phones and my apps didnt transfer'.
+
+Answer: 
+
+Post 8
+Sentiment: neutral
+Title: I WANT TO CONFIRM MI ID IN FACEBOOK BUT I'VE "RECENTLY" BOUGHT A NEW SMARTPHONE
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I WANT TO CONFIRM MI ID IN FACEBOOK BUT I'VE "RECENTLY" BOUGHT A NEW SMARTPHONE'.
+
+Answer: 
+
+Post 9
+Sentiment: neutral
+Title: Facebook graph API request returns empty object while trying to pull event_stats edge from the adspixel Node.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook graph API request returns empty object while trying to pull event_stats edge from the adspixel Node.'.
+
+Answer: 
+
+Post 10
+Sentiment: neutral
+Title: How come Facebook reel history doesn’t show all of the reels you watched?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How come Facebook reel history doesn’t show all of the reels you watched?'.
+
+Answer: 
+
+Post 11
+Sentiment: neutral
+Title: I can pay, Can anyone help me with this ? I need this kinda Facebook Login page.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I can pay, Can anyone help me with this ? I need this kinda Facebook Login page.'.
+
+Answer: 
+
+Post 12
+Sentiment: neutral
+Title: I'm on Facebook Mobile. How do I order posts by most recently posted?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I'm on Facebook Mobile. How do I order posts by most recently posted?'.
+
+Answer: 
+
+Post 13
+Sentiment: negative
+Title: Facebook Community Chat has disappeared from messenger and cannot find a way to get it back
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook Community Chat has disappeared from messenger and cannot find a way to get it back'.
+
+Answer: 
+
+Post 14
+Sentiment: neutral
+Title: Question regarding Meta Pay and Disabling of the service with no explanation
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Question regarding Meta Pay and Disabling of the service with no explanation'.
+
+Answer: 
+
+Post 15
+Sentiment: neutral
+Title: How many of you have your own assigned Meta Marketing Pro?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How many of you have your own assigned Meta Marketing Pro?'.
+
+Answer: 
+
+Post 16
+Sentiment: neutral
+Title: In meta ads How do i count only the caption link clicks ?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'In meta ads How do i count only the caption link clicks ?'.
+
+Answer: 
+
+Post 17
+Sentiment: neutral
+Title: How to get full access to this Facebook ads account
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How to get full access to this Facebook ads account'.
+
+Answer: 
+
+Post 18
+Sentiment: neutral
+Title: "Please verify your Facebook account" required every time I switch from my MacBook to Windows (and vice versa).
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): '"Please verify your Facebook account" required every time I switch from my MacBook to Windows (and vice versa).'.
+
+Answer: 
+
+Post 19
+Sentiment: negative
+Title: Meta ads not spending and have zero impressions
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta ads not spending and have zero impressions'.
+
+Answer: 
+
+Post 20
+Sentiment: neutral
+Title: Shopify issues on Facebook & Instagram Shop
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Shopify issues on Facebook & Instagram Shop'.
+
+Answer: 
+
+Post 21
+Sentiment: neutral
+Title: Anonymous Posting Identity in a Facebook Groups? New time member here so I’d appreciate the help :)
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Anonymous Posting Identity in a Facebook Groups? New time member here so I’d appreciate the help :)'.
+
+Answer: 
+
+Post 22
+Sentiment: neutral
+Title: Where do you get the most up-to-date Meta Ads news and insights?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Where do you get the most up-to-date Meta Ads news and insights?'.
+
+Answer: 
+
+Post 23
+Sentiment: neutral
+Title: 5 Meta Ads metrics that every BEGINNER must understand before running their first ad.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): '5 Meta Ads metrics that every BEGINNER must understand before running their first ad.'.
+
+Answer: 
+
+Post 24
+Sentiment: neutral
+Title: This is a scam right? I'm getting messages like this on my business page and I'm pretty sure if I have breached Facebook policies a random person wouldn't be informing me
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'This is a scam right? I'm getting messages like this on my business page and I'm pretty sure if I have breached Facebook policies a random person wouldn't be informing me'.
+
+Answer: 
+
+Post 25
+Sentiment: neutral
+Title: Should I create a new Meta Ads account if I restart my brand’s Facebook and Instagram pages?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Should I create a new Meta Ads account if I restart my brand’s Facebook and Instagram pages?'.
+
+Answer: 
+
+Post 26
+Sentiment: negative
+Title: Hello guys im having problems with my fb rn, My acc got locked because of suspicious activity And its been two weeks ig but i still cannot open my facebook and facebook send me an email to unlocked it but when i tap the unlocked it bring me to a facebook page saying "sorry something went wrong"HHelp
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Hello guys im having problems with my fb rn, My acc got locked because of suspicious activity And its been two weeks ig but i still cannot open my facebook and facebook send me an email to unlocked it but when i tap the unlocked it bring me to a facebook page saying "sorry something went wrong"HHelp'.
+
+Answer: 
+
+Post 27
+Sentiment: neutral
+Title: Weekly Facebook Ads Job Board
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Weekly Facebook Ads Job Board'.
+
+Answer: 
+
+Post 28
+Sentiment: neutral
+Title: What could I do If I can't access my 2fA (AUTHENTICATOR) App to login on Facebook?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'What could I do If I can't access my 2fA (AUTHENTICATOR) App to login on Facebook?'.
+
+Answer: 
+
+Post 29
+Sentiment: neutral
+Title: I keep seeing people talking about weeks or months ago their ads were doing well and recently it’s performing bad and blaming meta etc what’s going on?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I keep seeing people talking about weeks or months ago their ads were doing well and recently it’s performing bad and blaming meta etc what’s going on?'.
+
+Answer: 
+
+Post 30
+Sentiment: negative
+Title: My Facebook marketplace won’t work and it says for id verification I need to “become a developer” what do I do?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'My Facebook marketplace won’t work and it says for id verification I need to “become a developer” what do I do?'.
+
+Answer: 
+
+Post 31
+Sentiment: negative
+Title: Facebook Advertising Disabled
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook Advertising Disabled'.
+
+Answer: 
+
+Post 32
+Sentiment: neutral
+Title: App Install Campaigns Only Promote One App - Multiple Apps in a Single Meta App
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'App Install Campaigns Only Promote One App - Multiple Apps in a Single Meta App'.
+
+Answer: 
+
+Post 33
+Sentiment: negative
+Title: Struggling to Scale Facebook Ads – Higher Budget, Worse Results?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Struggling to Scale Facebook Ads – Higher Budget, Worse Results?'.
+
+Answer: 
+
+Post 34
+Sentiment: neutral
+Title: 🚨 The Facebook Ads "Optimization Phase" Is A Lie? 🚨 (Europe)
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): '🚨 The Facebook Ads "Optimization Phase" Is A Lie? 🚨 (Europe)'.
+
+Answer: 
+
+Post 35
+Sentiment: negative
+Title: Trying to make a business account under my writing pen name. Facebook blocked me immediately.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Trying to make a business account under my writing pen name. Facebook blocked me immediately.'.
+
+Answer: 
+
+Post 36
+Sentiment: neutral
+Title: Latest episode of Last Week Tonight: Facebook Content Moderation. F it.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Latest episode of Last Week Tonight: Facebook Content Moderation. F it.'.
+
+Answer: 
+
+Post 37
+Sentiment: neutral
+Title: Why has Facebook changed how we see comments on posts? When you go to see the comments, it says "Most Relavent" and there are no comments. You have to click on that and change it to "All Comments" so you can see the comments.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Why has Facebook changed how we see comments on posts? When you go to see the comments, it says "Most Relavent" and there are no comments. You have to click on that and change it to "All Comments" so you can see the comments.'.
+
+Answer: 
+
+Post 38
+Sentiment: negative
+Title: Facebook Ads Driving Bot Traffic? High Add to Cart and Initiate Checkout Rates, Zero Sales
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook Ads Driving Bot Traffic? High Add to Cart and Initiate Checkout Rates, Zero Sales'.
+
+Answer: 
+
+Post 39
+Sentiment: neutral
+Title: What Facebook ads setups have brought you the most sales and why?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'What Facebook ads setups have brought you the most sales and why?'.
+
+Answer: 
+
+Post 40
+Sentiment: negative
+Title: Help needed =( Unable to Create Business Manager Account on Facebook
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Help needed =( Unable to Create Business Manager Account on Facebook'.
+
+Answer: 
+
+Post 41
+Sentiment: neutral
+Title: I can't seem to find Facebook dating app after deleting it?  Is something wrong?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I can't seem to find Facebook dating app after deleting it?  Is something wrong?'.
+
+Answer: 
+
+Post 42
+Sentiment: neutral
+Title: [Selling] Provide you with an aged facebook profile
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): '[Selling] Provide you with an aged facebook profile'.
+
+Answer: 
+
+Post 43
+Sentiment: neutral
+Title: Hacked 3 years ago and want to retrieve my account. I reported that as problem on facebook
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Hacked 3 years ago and want to retrieve my account. I reported that as problem on facebook'.
+
+Answer: 
+
+Post 44
+Sentiment: neutral
+Title: Tom Selleck                                                       Facebook request - I’m genuinely confused on why I’ve gotten this many requests in a week from “Tom.”
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Tom Selleck                                                       Facebook request - I’m genuinely confused on why I’ve gotten this many requests in a week from “Tom.”'.
+
+Answer: 
+
+Post 45
+Sentiment: negative
+Title: Facebook is loading intolerably slowly: Adblock is off before you ask.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook is loading intolerably slowly: Adblock is off before you ask.'.
+
+Answer: 
+
+Post 46
+Sentiment: neutral
+Title: How do i verify my id for facebook marketplace? it keeps sending me in a loop
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How do i verify my id for facebook marketplace? it keeps sending me in a loop'.
+
+Answer: 
+
+Post 47
+Sentiment: neutral
+Title: I tried running an ad on Meta and was really surprised by the people who saw my ad.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I tried running an ad on Meta and was really surprised by the people who saw my ad.'.
+
+Answer: 
+
+Post 48
+Sentiment: neutral
+Title: Facebook Pixel
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook Pixel'.
+
+Answer: 
+
+Post 49
+Sentiment: neutral
+Title: Whats the minimum score to pass Meta recertificate exam?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Whats the minimum score to pass Meta recertificate exam?'.
+
+Answer: 
+
+Post 50
+Sentiment: neutral
+Title: Facebook Messenger Reverts to Its Classic Logo in 2025. Meta hasn’t issued an official statement confirming the Facebook Messenger logo change
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook Messenger Reverts to Its Classic Logo in 2025. Meta hasn’t issued an official statement confirming the Facebook Messenger logo change'.
+
+Answer: 
+
+Post 51
+Sentiment: neutral
+Title: How to get the bubble font on FB stories? I have an updated Messenger and Facebook. Phone is the latest too, but for some reason , I couldnt have the cute bubble font. I dont know what to do anymore. Can you please help me?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How to get the bubble font on FB stories? I have an updated Messenger and Facebook. Phone is the latest too, but for some reason , I couldnt have the cute bubble font. I dont know what to do anymore. Can you please help me?'.
+
+Answer: 
+
+Post 52
+Sentiment: negative
+Title: Facebook suspended my page two times and I can't do anything about it.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook suspended my page two times and I can't do anything about it.'.
+
+Answer: 
+
+Post 53
+Sentiment: neutral
+Title: Currently taking a Facebook survey. It's good for the world people! /s
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Currently taking a Facebook survey. It's good for the world people! /s'.
+
+Answer: 
+
+Post 54
+Sentiment: neutral
+Title: Someone is using my pictures in their facebook account!! What can I do about it ?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Someone is using my pictures in their facebook account!! What can I do about it ?'.
+
+Answer: 
+
+Post 55
+Sentiment: neutral
+Title: I am wondering how friend suggestion works on Facebook? Do accounts connect to each other in some way?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I am wondering how friend suggestion works on Facebook? Do accounts connect to each other in some way?'.
+
+Answer: 
+
+Post 56
+Sentiment: negative
+Title: Help please, i fell into a trap on Facebook<#> 68325553 est votre code Facebook Laz+nxCarLW
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Help please, i fell into a trap on Facebook<#> 68325553 est votre code Facebook Laz+nxCarLW'.
+
+Answer: 
+
+Post 57
+Sentiment: negative
+Title: My Facebook account was hacked and then disabled. What can I do to fix this?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'My Facebook account was hacked and then disabled. What can I do to fix this?'.
+
+Answer: 
+
+Post 58
+Sentiment: neutral
+Title: How to delete an old profile (no access to password btw) and how to contact Facebook
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How to delete an old profile (no access to password btw) and how to contact Facebook'.
+
+Answer: 
+
+Post 59
+Sentiment: neutral
+Title: Received a cryptic message from Meta about violating Trademark. How can I contact Customer Support?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Received a cryptic message from Meta about violating Trademark. How can I contact Customer Support?'.
+
+Answer: 
+
+Post 60
+Sentiment: neutral
+Title: Meta Ads pulling text from title tags on the landing page rather than using the text inputted on ads manager.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta Ads pulling text from title tags on the landing page rather than using the text inputted on ads manager.'.
+
+Answer: 
+
+Post 61
+Sentiment: negative
+Title: Is this a scam?? I got this message this evening on my business profile on Facebook! And it’s made me worried. Can anyone help me.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Is this a scam?? I got this message this evening on my business profile on Facebook! And it’s made me worried. Can anyone help me.'.
+
+Answer: 
+
+Post 62
+Sentiment: neutral
+Title: I went to re-block someone on Facebook and it sent a notification I unfollowed them, but I never followed them in the first place.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I went to re-block someone on Facebook and it sent a notification I unfollowed them, but I never followed them in the first place.'.
+
+Answer: 
+
+Post 63
+Sentiment: neutral
+Title: Don’t you just love it when facebook tries to decide who you know and who you don’t just got this message while trying to add my best friend whom I’ve known 10+ years
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Don’t you just love it when facebook tries to decide who you know and who you don’t just got this message while trying to add my best friend whom I’ve known 10+ years'.
+
+Answer: 
+
+Post 64
+Sentiment: negative
+Title: Facebook account is asking me to log in in Chinese and enter a six-digit verification code using a 2FA I never set up. Advice on how to solve this? Don't want to lose my Meta Quest Account.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook account is asking me to log in in Chinese and enter a six-digit verification code using a 2FA I never set up. Advice on how to solve this? Don't want to lose my Meta Quest Account.'.
+
+Answer: 
+
+Post 65
+Sentiment: negative
+Title: Facebook account hacked despite 2FA and Passkey. No recovery option working.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook account hacked despite 2FA and Passkey. No recovery option working.'.
+
+Answer: 
+
+Post 66
+Sentiment: neutral
+Title: Please help me, Since when Facebook dating start requiring a 7 day waiting period to reinstate a deleted account?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Please help me, Since when Facebook dating start requiring a 7 day waiting period to reinstate a deleted account?'.
+
+Answer: 
+
+Post 67
+Sentiment: neutral
+Title: Unable to change my username, facebook telling me i'm currently unable to do so
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Unable to change my username, facebook telling me i'm currently unable to do so'.
+
+Answer: 
+
+Post 68
+Sentiment: neutral
+Title: Metal Gear Solid Delta: Snake Eater Official PC Requirements
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Metal Gear Solid Delta: Snake Eater Official PC Requirements'.
+
+Answer: 
+
+================================================================================
+

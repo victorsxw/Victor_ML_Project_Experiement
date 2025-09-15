@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentiment Correlation Analysis Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0 auto; max-width: 1000px; padding: 20px; }
+        h1, h2, h3 { color: #2c3e50; }
+        h1 { border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        h2 { border-bottom: 1px solid #bdc3c7; padding-bottom: 5px; }
+        .summary-box { background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 5px; padding: 15px; margin: 20px 0; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        tr:nth-child(even) { background-color: #f9f9f9; }
+        .image-container { display: flex; justify-content: center; margin: 20px 0; }
+        .image-container img { max-width: 90%; }
+        .footer { margin-top: 40px; text-align: center; font-size: 0.8em; color: #7f8c8d; }
+    </style>
+</head>
+<body>
+    <h1>Hypothesis 1: Sentiment Correlation Analysis</h1>
+    <h2>Research Question</h2>
+    <p>Do sentiment trends between legacy news media and Reddit show significant correlation? Does Reddit sentiment lead news media sentiment?</p>
+    <h2>Hypotheses</h2>
+    <p><strong>Null Hypothesis (H0):</strong> Sentiment trends between legacy news media and Reddit does not have any significant correlation.</p>
+    <p><strong>Alternative Hypothesis (H1):</strong> Sentiment trends between legacy news media and Reddit have a significant correlation. Also, Reddit sentiment has a faster respond and leads the legacy news media sentiment.</p>
+    <h2>Statistical Methods</h2>
+    <ol>
+        <li><strong>Pearson Correlation Analysis:</strong> To measure the linear relationship between news and Reddit sentiment</li>
+        <li><strong>Cross-Correlation Analysis:</strong> To identify lead-lag relationships between the two sentiment series</li>
+        <li><strong>Granger Causality Tests:</strong> To determine if one sentiment series helps predict the other</li>
+    </ol>
+    <h2>Summary Results</h2>
+    <div class="image-container">
+        <img src="correlation_summary.png" alt="Correlation Summary">
+    </div>
+    <div class="image-container">
+        <img src="lead_lag_summary.png" alt="Lead-Lag Summary">
+    </div>
+    <div class="summary-box">
+        <h3>Key Findings:</h3>
+        <ul>
+            <li>Total stocks analyzed: 6</li>
+            <li>Stocks with significant correlation: 6</li>
+            <li>Stocks where Reddit sentiment leads News sentiment: 2 (TSLA, NVDA)</li>
+        </ul>
+    </div>
+    <h2>Detailed Results by Stock</h2>
+    <table>
+        <tr>
+            <th>Stock</th>
+            <th>Sample Size</th>
+            <th>Pearson Correlation</th>
+            <th>P-value</th>
+            <th>Reddit Leads News?</th>
+            <th>Conclusion</th>
+        </tr>
+        <tr>
+            <td>TSLA</td>
+            <td>250</td>
+            <td>0.7711</td>
+            <td>0.0000</td>
+            <td>Yes</td>
+            <td>Reject H0</td>
+        </tr>
+        <tr>
+            <td>NVDA</td>
+            <td>249</td>
+            <td>0.5520</td>
+            <td>0.0000</td>
+            <td>Yes</td>
+            <td>Reject H0</td>
+        </tr>
+        <tr>
+            <td>SPY</td>
+            <td>257</td>
+            <td>0.4132</td>
+            <td>0.0000</td>
+            <td>No</td>
+            <td>Reject H0</td>
+        </tr>
+        <tr>
+            <td>AAPL</td>
+            <td>255</td>
+            <td>0.3475</td>
+            <td>0.0000</td>
+            <td>No</td>
+            <td>Reject H0</td>
+        </tr>
+        <tr>
+            <td>META</td>
+            <td>252</td>
+            <td>-0.3217</td>
+            <td>0.0000</td>
+            <td>No</td>
+            <td>Reject H0</td>
+        </tr>
+        <tr>
+            <td>PLTR</td>
+            <td>248</td>
+            <td>0.2287</td>
+            <td>0.0003</td>
+            <td>No</td>
+            <td>Reject H0</td>
+        </tr>
+    </table>
+    <h2>Individual Stock Analysis</h2>
+    <h3>TSLA</h3>
+    <div class="image-container">
+        <img src="sentiment_trends_TSLA.png" alt="Sentiment Trends for TSLA">
+    </div>
+    <div class="image-container">
+        <img src="correlation_scatter_TSLA.png" alt="Correlation Scatter for TSLA">
+    </div>
+    <div class="image-container">
+        <img src="cross_correlation_TSLA.png" alt="Cross-Correlation for TSLA">
+    </div>
+    <h4>Granger Causality Results:</h4>
+    <table>
+        <tr>
+            <th>Direction</th>
+            <th>Lag 1</th>
+            <th>Lag 2</th>
+            <th>Lag 3</th>
+            <th>Lag 4</th>
+            <th>Lag 5</th>
+        </tr>
+        <tr>
+            <td>news_to_reddit</td>
+            <td >0.0639</td>
+            <td >0.2278</td>
+            <td >0.3400</td>
+            <td >0.3388</td>
+            <td >0.3013</td>
+        </tr>
+        <tr>
+            <td>reddit_to_news</td>
+            <td style="background-color: #d4edda;">0.0037</td>
+            <td style="background-color: #d4edda;">0.0050</td>
+            <td style="background-color: #d4edda;">0.0124</td>
+            <td style="background-color: #d4edda;">0.0238</td>
+            <td style="background-color: #d4edda;">0.0423</td>
+        </tr>
+    </table>
+    <h3>NVDA</h3>
+    <div class="image-container">
+        <img src="sentiment_trends_NVDA.png" alt="Sentiment Trends for NVDA">
+    </div>
+    <div class="image-container">
+        <img src="correlation_scatter_NVDA.png" alt="Correlation Scatter for NVDA">
+    </div>
+    <div class="image-container">
+        <img src="cross_correlation_NVDA.png" alt="Cross-Correlation for NVDA">
+    </div>
+    <h4>Granger Causality Results:</h4>
+    <table>
+        <tr>
+            <th>Direction</th>
+            <th>Lag 1</th>
+            <th>Lag 2</th>
+            <th>Lag 3</th>
+            <th>Lag 4</th>
+            <th>Lag 5</th>
+        </tr>
+        <tr>
+            <td>news_to_reddit</td>
+            <td >0.4220</td>
+            <td >0.6033</td>
+            <td >0.8194</td>
+            <td >0.4133</td>
+            <td >0.6041</td>
+        </tr>
+        <tr>
+            <td>reddit_to_news</td>
+            <td >0.0623</td>
+            <td style="background-color: #d4edda;">0.0049</td>
+            <td style="background-color: #d4edda;">0.0143</td>
+            <td style="background-color: #d4edda;">0.0349</td>
+            <td style="background-color: #d4edda;">0.0424</td>
+        </tr>
+    </table>
+    <h3>SPY</h3>
+    <div class="image-container">
+        <img src="sentiment_trends_SPY.png" alt="Sentiment Trends for SPY">
+    </div>
+    <div class="image-container">
+        <img src="correlation_scatter_SPY.png" alt="Correlation Scatter for SPY">
+    </div>
+    <div class="image-container">
+        <img src="cross_correlation_SPY.png" alt="Cross-Correlation for SPY">
+    </div>
+    <h4>Granger Causality Results:</h4>
+    <table>
+        <tr>
+            <th>Direction</th>
+            <th>Lag 1</th>
+            <th>Lag 2</th>
+            <th>Lag 3</th>
+            <th>Lag 4</th>
+            <th>Lag 5</th>
+        </tr>
+        <tr>
+            <td>news_to_reddit</td>
+            <td >0.1485</td>
+            <td >0.2614</td>
+            <td >0.3126</td>
+            <td >0.3064</td>
+            <td >0.3688</td>
+        </tr>
+        <tr>
+            <td>reddit_to_news</td>
+            <td >0.8213</td>
+            <td >0.3632</td>
+            <td >0.3684</td>
+            <td >0.5656</td>
+            <td >0.6098</td>
+        </tr>
+    </table>
+    <h3>AAPL</h3>
+    <div class="image-container">
+        <img src="sentiment_trends_AAPL.png" alt="Sentiment Trends for AAPL">
+    </div>
+    <div class="image-container">
+        <img src="correlation_scatter_AAPL.png" alt="Correlation Scatter for AAPL">
+    </div>
+    <div class="image-container">
+        <img src="cross_correlation_AAPL.png" alt="Cross-Correlation for AAPL">
+    </div>
+    <h4>Granger Causality Results:</h4>
+    <table>
+        <tr>
+            <th>Direction</th>
+            <th>Lag 1</th>
+            <th>Lag 2</th>
+            <th>Lag 3</th>
+            <th>Lag 4</th>
+            <th>Lag 5</th>
+        </tr>
+        <tr>
+            <td>news_to_reddit</td>
+            <td >0.5171</td>
+            <td >0.7633</td>
+            <td >0.8288</td>
+            <td >0.9519</td>
+            <td >0.9637</td>
+        </tr>
+        <tr>
+            <td>reddit_to_news</td>
+            <td >0.8361</td>
+            <td >0.1914</td>
+            <td >0.3110</td>
+            <td >0.1899</td>
+            <td >0.2513</td>
+        </tr>
+    </table>
+    <h3>META</h3>
+    <div class="image-container">
+        <img src="sentiment_trends_META.png" alt="Sentiment Trends for META">
+    </div>
+    <div class="image-container">
+        <img src="correlation_scatter_META.png" alt="Correlation Scatter for META">
+    </div>
+    <div class="image-container">
+        <img src="cross_correlation_META.png" alt="Cross-Correlation for META">
+    </div>
+    <h4>Granger Causality Results:</h4>
+    <table>
+        <tr>
+            <th>Direction</th>
+            <th>Lag 1</th>
+            <th>Lag 2</th>
+            <th>Lag 3</th>
+            <th>Lag 4</th>
+            <th>Lag 5</th>
+        </tr>
+        <tr>
+            <td>news_to_reddit</td>
+            <td >0.0861</td>
+            <td >0.1879</td>
+            <td style="background-color: #d4edda;">0.0248</td>
+            <td style="background-color: #d4edda;">0.0031</td>
+            <td style="background-color: #d4edda;">0.0104</td>
+        </tr>
+        <tr>
+            <td>reddit_to_news</td>
+            <td >0.2722</td>
+            <td >0.0595</td>
+            <td >0.0981</td>
+            <td >0.1877</td>
+            <td >0.1047</td>
+        </tr>
+    </table>
+    <h3>PLTR</h3>
+    <div class="image-container">
+        <img src="sentiment_trends_PLTR.png" alt="Sentiment Trends for PLTR">
+    </div>
+    <div class="image-container">
+        <img src="correlation_scatter_PLTR.png" alt="Correlation Scatter for PLTR">
+    </div>
+    <div class="image-container">
+        <img src="cross_correlation_PLTR.png" alt="Cross-Correlation for PLTR">
+    </div>
+    <h4>Granger Causality Results:</h4>
+    <table>
+        <tr>
+            <th>Direction</th>
+            <th>Lag 1</th>
+            <th>Lag 2</th>
+            <th>Lag 3</th>
+            <th>Lag 4</th>
+            <th>Lag 5</th>
+        </tr>
+        <tr>
+            <td>news_to_reddit</td>
+            <td >0.1067</td>
+            <td >0.2818</td>
+            <td >0.3851</td>
+            <td >0.6760</td>
+            <td >0.6830</td>
+        </tr>
+        <tr>
+            <td>reddit_to_news</td>
+            <td >0.4987</td>
+            <td >0.5712</td>
+            <td >0.8108</td>
+            <td >0.8800</td>
+            <td >0.8783</td>
+        </tr>
+    </table>
+    <h2>Conclusion</h2>
+    <p>The analysis provides evidence to reject the null hypothesis for 6 out of 6 stocks.     There is a significant correlation between sentiment trends in legacy news media and Reddit for the majority of the stocks analyzed.</p>
+    <p>Furthermore, for 2 stocks (TSLA, NVDA),     the Granger causality tests indicate that Reddit sentiment leads news media sentiment,     supporting the second part of the alternative hypothesis.</p>
+    <p>These findings suggest that while there is often alignment between institutional and retail investor sentiment as reflected in news media and social media,     the leading relationship between these platforms varies by stock and is not consistent across the market.</p>
+    <div class="footer">
+        <p>Generated on 2025-03-25 17:45:23</p>
+    </div>
+</body>
+</html>

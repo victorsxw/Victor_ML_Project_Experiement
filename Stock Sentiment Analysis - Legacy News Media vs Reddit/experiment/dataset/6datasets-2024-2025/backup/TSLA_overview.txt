@@ -1,0 +1,18 @@
+TSLA 股票数据概览：
+行数：255
+列数：3
+
+数据类型：
+news: float64
+reddit: float64
+stock: float64
+
+缺失值统计：
+news: 0
+reddit: 11
+stock: 0
+
+唯一值统计：
+news: 255
+reddit: 244
+stock: 255

@@ -1,0 +1,27 @@
+reddit_chat7.pkl 数据集概览：
+行数：21080
+列数：6
+
+数据类型：
+datetime: datetime64[ns, UTC]
+headline: object
+question: object
+answer: object
+upvote: float64
+num_comment: int64
+
+缺失值统计：
+datetime: 0
+headline: 0
+question: 0
+answer: 0
+upvote: 0
+num_comment: 0
+
+唯一值统计：
+datetime: 2417
+headline: 20515
+question: 20515
+answer: 4
+upvote: 95
+num_comment: 1285

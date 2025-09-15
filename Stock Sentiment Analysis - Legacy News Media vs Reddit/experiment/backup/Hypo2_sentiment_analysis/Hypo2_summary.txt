@@ -1,0 +1,120 @@
+# 预测能力假设：情绪分析与股价走势
+
+## 研究问题
+传统新闻媒体和Reddit的情绪趋势是否对股价走势具有预测能力？
+如果有，哪种情绪来源与股价走势的相关性更强？
+
+## 假设
+H0: 传统新闻媒体和Reddit的情绪无法显著预测股价走势。
+H1: Reddit情绪与短期股价走势的相关性强于传统新闻媒体。
+
+## 统计方法
+1. 情绪-股价相关性分析：测量情绪与股价之间的关系
+2. 滞后相关性分析：评估情绪对未来股价走势的预测能力
+
+## 结果
+
+### 情绪-股价相关性
+
+#### AAPL
+- 新闻-股价相关性: 0.7030 (p值: 0.0000)
+- Reddit-股价相关性: 0.3245 (p值: 0.0000)
+- 更强预测因子: News
+
+#### META
+- 新闻-股价相关性: -0.1538 (p值: 0.0143)
+- Reddit-股价相关性: 0.2086 (p值: 0.0008)
+- 更强预测因子: Reddit
+
+#### TSLA
+- 新闻-股价相关性: 0.7972 (p值: 0.0000)
+- Reddit-股价相关性: 0.7937 (p值: 0.0000)
+- 更强预测因子: News
+
+#### NVDA
+- 新闻-股价相关性: 0.6057 (p值: 0.0000)
+- Reddit-股价相关性: 0.3564 (p值: 0.0000)
+- 更强预测因子: News
+
+#### PLTR
+- 新闻-股价相关性: -0.1060 (p值: 0.1000)
+- Reddit-股价相关性: 0.2867 (p值: 0.0000)
+- 更强预测因子: Reddit
+
+#### SPY
+- 新闻-股价相关性: 0.0871 (p值: 0.1657)
+- Reddit-股价相关性: 0.3489 (p值: 0.0000)
+- 更强预测因子: Reddit
+
+### 滞后相关性分析
+
+#### AAPL
+- 新闻最大相关性: 0.7030 在滞后期 0 (p值: 0.0000)
+- Reddit最大相关性: 0.3245 在滞后期 0 (p值: 0.0000)
+- 更强预测因子: News
+
+#### META
+- 新闻最大相关性: -0.2340 在滞后期 5 (p值: 0.0002)
+- Reddit最大相关性: 0.2182 在滞后期 1 (p值: 0.0005)
+- 更强预测因子: News
+
+#### TSLA
+- 新闻最大相关性: 0.7972 在滞后期 0 (p值: 0.0000)
+- Reddit最大相关性: 0.7937 在滞后期 0 (p值: 0.0000)
+- 更强预测因子: News
+
+#### NVDA
+- 新闻最大相关性: 0.6057 在滞后期 0 (p值: 0.0000)
+- Reddit最大相关性: 0.3564 在滞后期 0 (p值: 0.0000)
+- 更强预测因子: News
+
+#### PLTR
+- 新闻最大相关性: -0.1547 在滞后期 4 (p值: 0.0169)
+- Reddit最大相关性: 0.2867 在滞后期 0 (p值: 0.0000)
+- 更强预测因子: Reddit
+
+#### SPY
+- 新闻最大相关性: -0.1642 在滞后期 5 (p值: 0.0093)
+- Reddit最大相关性: 0.3489 在滞后期 0 (p值: 0.0000)
+- 更强预测因子: Reddit
+
+## 发现总结
+
+### 同期相关性
+- Reddit相关性更强的股票数: 3
+- 新闻相关性更强的股票数: 3
+
+### 滞后相关性（预测能力）
+- Reddit预测能力更强的股票数: 2
+- 新闻预测能力更强的股票数: 4
+
+## 结论
+
+分析结果显示，关于哪种情绪来源与股价走势相关性更强的结论不一致。
+
+## 可视化
+
+### 个股可视化
+- AAPL:
+  - 情绪趋势: Hypo2_sentiment_analysis/sentiment_trends_AAPL.png
+  - 滞后相关性: Hypo2_sentiment_analysis/lagged_correlation_AAPL.png
+- META:
+  - 情绪趋势: Hypo2_sentiment_analysis/sentiment_trends_META.png
+  - 滞后相关性: Hypo2_sentiment_analysis/lagged_correlation_META.png
+- TSLA:
+  - 情绪趋势: Hypo2_sentiment_analysis/sentiment_trends_TSLA.png
+  - 滞后相关性: Hypo2_sentiment_analysis/lagged_correlation_TSLA.png
+- NVDA:
+  - 情绪趋势: Hypo2_sentiment_analysis/sentiment_trends_NVDA.png
+  - 滞后相关性: Hypo2_sentiment_analysis/lagged_correlation_NVDA.png
+- PLTR:
+  - 情绪趋势: Hypo2_sentiment_analysis/sentiment_trends_PLTR.png
+  - 滞后相关性: Hypo2_sentiment_analysis/lagged_correlation_PLTR.png
+- SPY:
+  - 情绪趋势: Hypo2_sentiment_analysis/sentiment_trends_SPY.png
+  - 滞后相关性: Hypo2_sentiment_analysis/lagged_correlation_SPY.png
+
+### 总结可视化
+- 情绪-股价相关性: Hypo2_sentiment_analysis/sentiment_stock_correlation.png
+- 预测能力总结: Hypo2_sentiment_analysis/predictive_power_summary.png
+- 滞后相关性总结: Hypo2_sentiment_analysis/lagged_correlation_summary.png

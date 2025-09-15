@@ -1,0 +1,18 @@
+META 股票数据概览：
+行数：253
+列数：3
+
+数据类型：
+news: float64
+reddit: float64
+stock: float64
+
+缺失值统计：
+news: 0
+reddit: 8
+stock: 0
+
+唯一值统计：
+news: 253
+reddit: 245
+stock: 253

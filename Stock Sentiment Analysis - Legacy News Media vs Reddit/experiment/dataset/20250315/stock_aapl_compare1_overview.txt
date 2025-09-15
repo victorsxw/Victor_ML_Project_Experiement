@@ -1,0 +1,42 @@
+stock_aapl_compare1.pkl 数据集概览：
+行数：384
+列数：11
+
+数据类型：
+score: float64
+SMA1: float64
+SMA1_scaled: float64
+EMA0.2: float64
+EMA0.2_scaled: float64
+EMA0.1: float64
+EMA0.1_scaled: float64
+EMA0.05: float64
+EMA0.05_scaled: float64
+EMA0.02: float64
+EMA0.02_scaled: float64
+
+缺失值统计：
+score: 2
+SMA1: 0
+SMA1_scaled: 0
+EMA0.2: 19
+EMA0.2_scaled: 19
+EMA0.1: 19
+EMA0.1_scaled: 19
+EMA0.05: 19
+EMA0.05_scaled: 19
+EMA0.02: 19
+EMA0.02_scaled: 19
+
+唯一值统计：
+score: 382
+SMA1: 382
+SMA1_scaled: 382
+EMA0.2: 363
+EMA0.2_scaled: 363
+EMA0.1: 363
+EMA0.1_scaled: 363
+EMA0.05: 363
+EMA0.05_scaled: 363
+EMA0.02: 363
+EMA0.02_scaled: 363

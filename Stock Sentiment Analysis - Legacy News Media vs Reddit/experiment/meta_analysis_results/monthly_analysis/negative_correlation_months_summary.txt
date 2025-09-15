@@ -1,0 +1,8 @@
+Analysis of Months with Highest Negative Correlation
+===================================================
+
+Month: 2024-08, Correlation: -0.8770
+Month: 2024-06, Correlation: -0.7334
+Month: 2024-04, Correlation: -0.7197
+Month: 2025-02, Correlation: -0.6684
+
