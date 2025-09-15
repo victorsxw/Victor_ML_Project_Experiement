@@ -1,0 +1,407 @@
+Context Analysis for Extreme Sentiment Divergence Day: 2024-09-10
+======================================================================
+
+1. SENTIMENT OVERVIEW
+====================
+
+Extreme Day Sentiment Values:
+News sentiment: -2.9935
+Reddit sentiment: 1.0183
+Sentiment difference: -4.0118
+
+Sentiment Trend Around Extreme Day:
+--------------------------------
+Date            News Sentiment    Reddit Sentiment    Difference
+  2024-09-09      -2.6317           1.4293            -4.0609
+**2024-09-10**    -2.9935           1.0183            -4.0118
+  2024-09-11      -2.9000           0.9177            -3.8178
+  2024-09-12      -2.8085           1.1213            -3.9297
+
+
+2. DETAILED CONTENT ANALYSIS
+===========================
+
+2.1 Content Volume Analysis
+-------------------------
+
+  Date: 2024-09-08  
+News articles: 1
+Reddit posts: 4
+
+  Date: 2024-09-09  
+News articles: 3
+Reddit posts: 4
+
+**Date: 2024-09-10**
+News articles: 6
+Reddit posts: 2
+
+  Date: 2024-09-11  
+News articles: 5
+Reddit posts: 1
+
+  Date: 2024-09-12  
+News articles: 4
+Reddit posts: 4
+
+
+2.2 Sentiment Distribution
+------------------------
+
+  Date: 2024-09-08  
+News sentiment distribution:
+  unknown: 1 (100.0%)
+Reddit sentiment distribution:
+  negative: 2 (50.0%)
+  neutral: 2 (50.0%)
+
+  Date: 2024-09-09  
+News sentiment distribution:
+  unknown: 3 (100.0%)
+Reddit sentiment distribution:
+  neutral: 3 (75.0%)
+  negative: 1 (25.0%)
+
+**Date: 2024-09-10**
+News sentiment distribution:
+  unknown: 6 (100.0%)
+Reddit sentiment distribution:
+  negative: 1 (50.0%)
+  neutral: 1 (50.0%)
+
+  Date: 2024-09-11  
+News sentiment distribution:
+  unknown: 5 (100.0%)
+Reddit sentiment distribution:
+  negative: 1 (100.0%)
+
+  Date: 2024-09-12  
+News sentiment distribution:
+  unknown: 4 (100.0%)
+Reddit sentiment distribution:
+  negative: 2 (50.0%)
+  neutral: 2 (50.0%)
+
+
+2.3 Content Comparison
+--------------------
+
+  Date: 2024-09-08  
+NEWS ARTICLES:
+--------------
+Article 1:
+Sentiment: unknown
+Title: Consumer Tech News (Sep 1-Sep 7): Elon Musk Launches Beta Version Of X TV, Alibaba Launches AI To Help American Buyers & More
+
+
+REDDIT POSTS:
+-------------
+Post 1:
+Sentiment: negative
+Title: Facebook auto-moderation now deleting decade-old broken image links and striking accounts as "spam".
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook auto-moderation now deleting decade-old broken image links and striking accounts as "spam".'.
+
+Answer: 
+
+Post 2:
+Sentiment: neutral
+Title: Facebook banned account because of instagram, but instagram banned my account because of facebook - No appeal button, not sure what to do here
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook banned account because of instagram, but instagram banned my account because of facebook - No appeal button, not sure what to do here'.
+
+Answer: 
+
+Post 3:
+Sentiment: neutral
+Title: Facebook not banning page that keeps posting pornographic images as stories but does remove the content when I report it
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook not banning page that keeps posting pornographic images as stories but does remove the content when I report it'.
+
+Answer: 
+
+Post 4:
+Sentiment: negative
+Title: Let’s be honest. Facebook ads are dying
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Let’s be honest. Facebook ads are dying'.
+
+Answer: 
+
+================================================================================
+
+  Date: 2024-09-09  
+NEWS ARTICLES:
+--------------
+Article 1:
+Sentiment: unknown
+Title: Investors Pin Hope On Apple Intelligence, Short Squeeze And Weaker Yen Drive Stock Market Higher
+
+Article 2:
+Sentiment: unknown
+Title: $100 Invested In This Stock 10 Years Ago Would Be Worth $700 Today
+
+Article 3:
+Sentiment: unknown
+Title: 'Elon Musk faces possible summons before UK p...
+
+
+REDDIT POSTS:
+-------------
+Post 1:
+Sentiment: neutral
+Title: facebook removed my post--they say "It looks like you tried to get likes, follows, shares or video views in a misleading way."  I don't get it?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'facebook removed my post--they say "It looks like you tried to get likes, follows, shares or video views in a misleading way."  I don't get it?'.
+
+Answer: 
+
+Post 2:
+Sentiment: neutral
+Title: To fellow small biz owners paying agencies to run meta ads 
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'To fellow small biz owners paying agencies to run meta ads '.
+
+Answer: 
+
+Post 3:
+Sentiment: neutral
+Title: Is Facebook Getting Too Crowded for Advertisers?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Is Facebook Getting Too Crowded for Advertisers?'.
+
+Answer: 
+
+Post 4:
+Sentiment: negative
+Title: Facebook account hacked, details changed, then disabled - gained access within 24 hours using Instagram verification tactic giving access to Meta live chat. 
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook account hacked, details changed, then disabled - gained access within 24 hours using Instagram verification tactic giving access to Meta live chat. '.
+
+Answer: 
+
+================================================================================
+
+**Date: 2024-09-10**
+NEWS ARTICLES:
+--------------
+Article 1:
+Sentiment: unknown
+Title: Meta Exemplifies Benefits Of Founder Leadership More Than Any Other Mega Cap Including Nvidia: Analyst
+
+Article 2:
+Sentiment: unknown
+Title: This Chart Before Buying AI Stocks, Apple Loses $14B Fight
+
+Article 3:
+Sentiment: unknown
+Title: DA Davidson Initiates Coverage On Meta Platfo...
+
+Article 4:
+Sentiment: unknown
+Title: Analyst Says 'Don't Buy The Tech Dip' Amid Election Policy Uncertainty, Advises Focusing On These Sectors For 'Quality, Stability, And Income'
+
+Article 5:
+Sentiment: unknown
+Title: Did Mark Zuckerberg Really Say 'No Way I Can Vote For A Democrat In This Election' To Trump?
+
+Article 6:
+Sentiment: unknown
+Title: After Feud With Elon Musk And Mark Zuckerberg, Australian PM Anthony Albanese Set To Ban Social Media For Children, Citing Health Concerns
+
+
+REDDIT POSTS:
+-------------
+Post 1:
+Sentiment: negative
+Title: Ad Creatives Won’t Work on Meta
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Ad Creatives Won’t Work on Meta'.
+
+Answer: 
+
+Post 2:
+Sentiment: neutral
+Title: After being “in the trenches” of 20+ Facebook ad accounts the last few months, I’m back to share some must-know insights and my updated strategies.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'After being “in the trenches” of 20+ Facebook ad accounts the last few months, I’m back to share some must-know insights and my updated strategies.'.
+
+Answer: 
+
+================================================================================
+
+  Date: 2024-09-11  
+NEWS ARTICLES:
+--------------
+Article 1:
+Sentiment: unknown
+Title: The Magnificent 7 'Unicorns': Startups That Dominate Private Investing
+
+Article 2:
+Sentiment: unknown
+Title: 8 Communication Services Stocks Whale Activity In Today's Session
+
+Article 3:
+Sentiment: unknown
+Title: X Gains Ground As Facebook Slips: Musk Closes In On Zuckerberg In Social Media Face-Off
+
+Article 4:
+Sentiment: unknown
+Title: Hotter Core CPI Upsets Stock Market Bulls' Hopium, Buying Ahead Of Nvidia's Jensen Huang Speech
+
+Article 5:
+Sentiment: unknown
+Title: Looking At Meta Platforms's Recent Unusual Options Activity
+
+
+REDDIT POSTS:
+-------------
+Post 1:
+Sentiment: negative
+Title: I was hacked on Facebook with no help at all and countless hours of trying to get my account back
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I was hacked on Facebook with no help at all and countless hours of trying to get my account back'.
+
+Answer: 
+
+================================================================================
+
+  Date: 2024-09-12  
+NEWS ARTICLES:
+--------------
+Article 1:
+Sentiment: unknown
+Title: Google Antitrust 'Smoking Gun' Is Actually What Most Executives Are Paid To Do
+
+Article 2:
+Sentiment: unknown
+Title: Human-Like Reasoning 'Strawberry' Ahead, Aggressive Nvidia Buying, Hotter Inflation Data
+
+Article 3:
+Sentiment: unknown
+Title: Mark Zuckerberg Live Event Sold Out Stadium: Meta CEO Attracted Thousands Eager To Hear Him Speak On 'The Next Decade Of Social, Technology, And AI'
+
+Article 4:
+Sentiment: unknown
+Title: Bipartisan Coalition Of 42 State AGs Urges Congress To Mandate Surgeon General Warnings On Social Media Apps Like TikTok, X, And Meta's Instagram To Address Growing Mental Health Concerns
+
+
+REDDIT POSTS:
+-------------
+Post 1:
+Sentiment: negative
+Title: Facebook having outage right now? Cant seem to connect. Also mobile app having issues.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook having outage right now? Cant seem to connect. Also mobile app having issues.'.
+
+Answer: 
+
+Post 2:
+Sentiment: neutral
+Title: What is the point of Facebook if you can't even make friends anymore? 
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'What is the point of Facebook if you can't even make friends anymore? '.
+
+Answer: 
+
+Post 3:
+Sentiment: negative
+Title: meta ad performances dropped spectacularly
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'meta ad performances dropped spectacularly'.
+
+Answer: 
+
+Post 4:
+Sentiment: neutral
+Title: I've Audited 100+ Facebook Ad Accounts This Year. Here Are 3 Money-Burning Mistakes (And How to Fix Them)
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I've Audited 100+ Facebook Ad Accounts This Year. Here Are 3 Money-Burning Mistakes (And How to Fix Them)'.
+
+Answer: 
+
+================================================================================
+
+
+3. TOPIC ANALYSIS
+================
+
+3.1 Common Topics in News:
+-------------------------
+  musk: 4
+  meta: 4
+  zuckerberg: 4
+  social: 4
+  elon: 3
+  stock: 3
+  buying: 3
+  mark: 3
+  media: 3
+  tech: 2
+  launches: 2
+  apple: 2
+  market: 2
+  before: 2
+  nvidia: 2
+
+3.2 Common Topics in Reddit:
+---------------------------
+  impact: 45
+  meta: 38
+  likely: 30
+  facebook: 26
+  classify: 15
+  sentiment: 15
+  reddit: 15
+  post: 15
+  title: 15
+  based: 15
+  potential: 15
+  stock: 15
+  price: 15
+  positive: 15
+  increase: 15
+
+
+4. CONTENT COMPARISON BETWEEN NEWS AND REDDIT
+=============================================
+
+4.1 Overall Sentiment Comparison:
+-------------------------------
+News: 0 positive, 0 negative, 0 neutral
+Reddit: 0 positive, 7 negative, 8 neutral
+
+4.2 Common Topics Analysis:
+-------------------------
+Common topics between news and Reddit:
+  meta: News (4 mentions), Reddit (38 mentions)
+  stock: News (3 mentions), Reddit (15 mentions)
+
+Topics unique to news:
+  social: 4 mentions
+  zuckerberg: 4 mentions
+  musk: 4 mentions
+  elon: 3 mentions
+  buying: 3 mentions
+  media: 3 mentions
+  mark: 3 mentions
+  before: 2 mentions
+  tech: 2 mentions
+  apple: 2 mentions
+
+Topics unique to Reddit:
+  impact: 45 mentions
+  likely: 30 mentions
+  facebook: 26 mentions
+  sentiment: 15 mentions
+  classify: 15 mentions
+  title: 15 mentions
+  potential: 15 mentions
+  reddit: 15 mentions
+  increase: 15 mentions
+  price: 15 mentions
+
+5. SUMMARY AND INSIGHTS
+=====================
+
+During the period from 2024-09-08 to 2024-09-12, the following key observations were made:
+
+1. Volume: Found 19 news articles and 15 Reddit posts
+2. News Sentiment: 0 positive, 0 negative, 0 neutral
+3. Reddit Sentiment: 0 positive, 7 negative, 8 neutral
+
+Key Findings:
+1. The extreme sentiment divergence occurred in a context of decreasing disparity between news and social media perceptions.
+2. Common topics between news and Reddit: meta, stock
+3. The sentiment divergence appears to be driven by different interpretations of the same topics rather than coverage of entirely different subjects.
+
+4. On 2024-09-10, news sentiment was strongly negative (-2.99), while Reddit sentiment was positive (1.02).
+
+5. Extreme Day Content Analysis:
+   - News headlines focused on: meta, analyst, election, mark, zuckerberg
+   - Reddit discussions focused on: creatives, wont, work, meta, after

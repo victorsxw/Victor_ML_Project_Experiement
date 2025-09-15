@@ -1,0 +1,564 @@
+Extreme Sentiment Divergence Days for 2024-04
+==================================================
+
+Date: 2024-04-24
+News sentiment: 0.3951, Reddit sentiment: -1.1902
+Absolute difference: 1.5853
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Meta CEO Zuckerberg Said About 30% Of The Pos...
+
+Article 2
+Title: Meta CEO Zuckerberig Said Building The Leadin...
+
+Article 3
+Title: Alphabet, Snap, Pinterest Shares Are Sliding: What's Going On?
+
+Article 4
+Title: Meta CEO Says Even With Shifting Existing Res...
+
+Article 5
+Title: Meta Platforms Says The Initial Rollout Of Me...
+
+Article 6
+Title: Meta Platforms Q1 Earnings Highlights: Facebook Owner Beats Estimates, But Guidance, Higher Costs Ding Stock
+
+Article 7
+Title: Meta: 'We anticipate our full-year 2024 capit...
+
+Article 8
+Title: Meta: 'We expect full-year 2024 total expense...
+
+Article 9
+Title: Meta Sees Q2 Total Revenue $36.5B-$39B vs $38...
+
+Article 10
+Title: Meta Platforms shares are trading lower after...
+
+Article 11
+Title: Meta Family Daily Active People 3.24B On Avg....
+
+Article 12
+Title: Meta Platforms Q1 2024 GAAP EPS $4.71 Beats $...
+
+Article 13
+Title: White House National Security Adviser Sulliva...
+
+Article 14
+Title: AI Server Market Is Expanding Rapidly - Analysts Highlight Super Micro Computer's Importance In The Game
+
+Article 15
+Title: CNBC Halftime Report Final Trades: The Goldma...
+
+Article 16
+Title: Beyond "Big Six:" Why Choose Non-Cyclical Sector ETFs?
+
+Article 17
+Title: Musk Lifts Sentiment In Entire Stock Market By Saying A Regular Car Is Like "Riding A Horse"
+
+Article 18
+Title: TikTok Says U.S. Legislation Is 'Unconstituti...
+
+Article 19
+Title: TikTok CEO Expects To Prevail In Courts Over ...
+
+Article 20
+Title: TikTok CEO Says Legislation Signed By Preside...
+
+Article 21
+Title: White House Says President Biden Signs TikTok...
+
+Article 22
+Title: TikTok Says To Voluntarily Suspend TikTok Lit...
+
+Article 23
+Title: Market Clubhouse Morning Memo - April 24th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA)
+
+Article 24
+Title: Top 10 Trending Stocks On WallStreetBets As O...
+
+Article 25
+Title: Elon Musk's Big Bet: Tesla to Ramp Up AI Development with Nvidia's Powerful Chips
+
+Article 26
+Title: What's Going On With Meta Platforms Stock Wednesday?
+
+Article 27
+Title: How To Earn $500 A Month From Meta Platforms Stock Ahead Of Q1 Earnings
+
+Article 28
+Title: Meta's Massive $1B Bet On Nvidia H100 GPU Cluster Will Dwarf Every Other Company's Target, But Zuckerberg Reveals Original Goal Was This, Not AI
+
+Article 29
+Title: Shares of Meta and Snap are trading higher af...
+
+Article 30
+Title: GOP Senator Who Owns Meta Stock Denies Conflict of Interest Ahead Of TikTok Ban Vote: 'I Am Not Fighting Against A Company'
+
+Article 31
+Title: Meta Likely To Report Higher Q1 Earnings; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts
+
+Article 32
+Title: Investor Sentiment Improves Further, Dow Jumps Over 250 Points
+
+Article 33
+Title: Tesla, Meta Platforms, Enphase Energy, Texas Instruments, Rivian: Why These 5 Stocks Are On Investors' Radars Today
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: negative
+Title: Facebook needs to be held accountable for the ads they allow on their platform.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook needs to be held accountable for the ads they allow on their platform.'.
+
+Answer: 
+
+Post 2
+Sentiment: neutral
+Title: How I stay organized in Facebook ads manager
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How I stay organized in Facebook ads manager'.
+
+Answer: 
+
+Post 3
+Sentiment: neutral
+Title: Soo. How does facebook really choose the order of someones friend list?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Soo. How does facebook really choose the order of someones friend list?'.
+
+Answer: 
+
+Post 4
+Sentiment: negative
+Title: Meta reports revenue and earnings beat but issues disappointing guidance; down 11%
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta reports revenue and earnings beat but issues disappointing guidance; down 11%'.
+
+Answer: 
+
+Post 5
+Sentiment: negative
+Title: Meta’s new AI feature looks kind of useless.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta’s new AI feature looks kind of useless.'.
+
+Answer: 
+
+Post 6
+Sentiment: negative
+Title: Now META earnings Surprised above expectations … and the selloff begins with 15% down post market!
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Now META earnings Surprised above expectations … and the selloff begins with 15% down post market!'.
+
+Answer: 
+
+================================================================================
+
+Date: 2024-04-25
+News sentiment: 0.3880, Reddit sentiment: -1.1862
+Absolute difference: 1.5742
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Citigroup Maintains Buy on Meta Platforms, Lo...
+
+Article 2
+Title: Amazon Stock Is Rising Thursday: What's Going On?
+
+Article 3
+Title: Students Demand Universities Sell Off Israel-Related Stocks, Hundreds Arrested In Nationwide Protests: 'Stop Investing In This Genocide'
+
+Article 4
+Title: Benzinga Closing Bell Update: Indexes Lower O...
+
+Article 5
+Title: Is "Bad News" Still "Good News" for the Market?
+
+Article 6
+Title: Meta's Q1 Earnings: Most Analysts Support AI Strategy, While One Says 'Use Meta As A Source Of Funds,' Questions Its Long-Term Value
+
+Article 7
+Title: Barclays Maintains Overweight on Meta Platfor...
+
+Article 8
+Title: Guggenheim Maintains Buy on Meta Platforms, L...
+
+Article 9
+Title: Why Caterpillar Shares Are Trading Lower By Around 7%? Here Are Other Stocks Moving In Thursday's Mid-Day Session
+
+Article 10
+Title: TD Cowen Maintains Buy on Meta Platforms, Low...
+
+Article 11
+Title: Truist Securities Maintains Buy on Meta Platf...
+
+Article 12
+Title: Stocks Drop, Tech Tumbles With Meta's Weak Outlook, Q1 Stagflation Fears; Gold Miners Advance: What's Driving Markets Thursday?
+
+Article 13
+Title: Meta's Unexpected Stock Plunge Following A Strong Earnings Report And Bold AI Investment
+
+Article 14
+Title: Keybanc Maintains Overweight on Meta Platform...
+
+Article 15
+Title: Deutsche Bank Maintains Buy on Meta Platforms...
+
+Article 16
+Title: JMP Securities Maintains Market Outperform on...
+
+Article 17
+Title: Bernstein Maintains Outperform on Meta Platfo...
+
+Article 18
+Title: TikTok Owner ByteDance To Prefer Shutting Dow...
+
+Article 19
+Title: RBC Capital Maintains Outperform on Meta Plat...
+
+Article 20
+Title: Raymond James Maintains Strong Buy on Meta Pl...
+
+Article 21
+Title: Magnificent 7 Tumble, Wipe Out $300 Billion On Meta's Weak Guidance, Q1 Stagflation Woes
+
+Article 22
+Title: Why Snap And Pinterest Shares Are Moving Lower Thursday
+
+Article 23
+Title: ByteDance Official Account On Toutiao Says "H...
+
+Article 24
+Title: Meta Falls 15% On Great Earnings, Tesla Rises 12% On Ugly Earnings – Here Is The Real Reason
+
+Article 25
+Title: Roth MKM Maintains Buy on Meta Platforms, Rai...
+
+Article 26
+Title: Benchmark Reiterates Hold on Meta Platforms
+
+Article 27
+Title: US Economy Grows 1.6% In Q1, Sharply Below Expectations As Price Pressures Weigh On Spending (CORRECTED)
+
+Article 28
+Title: UBS Maintains Buy on Meta Platforms, Lowers P...
+
+Article 29
+Title: Market Clubhouse Morning Memo - April 25th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA)
+
+Article 30
+Title: Markets Today: Earnings Are Failing To Impress Traders, Dow Jones Flirting With Critical Levels
+
+Article 31
+Title: Top 10 Trending Stocks On WallStreetBets As O...
+
+Article 32
+Title: Meta Platforms Stock Is Tumbling Thursday: What's Going On?
+
+Article 33
+Title: JP Morgan Maintains Overweight on Meta Platfo...
+
+Article 34
+Title: Alphabet, Meta Platforms And 3 Stocks To Watch Heading Into Thursday
+
+Article 35
+Title: Meta Platforms To Rally Around 14%? Here Are 10 Top Analyst Forecasts For Thursday
+
+Article 36
+Title: Jefferies Maintains Buy on Meta Platforms, Lo...
+
+Article 37
+Title: Piper Sandler Reiterates Overweight on Meta P...
+
+Article 38
+Title: Canaccord Genuity Maintains Buy on Meta Platf...
+
+Article 39
+Title: Meta Platforms, Goldman Sachs And More On CNBC's 'Final Trades'
+
+Article 40
+Title: Oppenheimer Maintains Outperform on Meta Plat...
+
+Article 41
+Title: 'ByteDance Exploring Scenarios For Selling Ti...
+
+Article 42
+Title: Wedbush Maintains Outperform on Meta Platform...
+
+Article 43
+Title: IBM Reports Weak Revenue, Joins Meta Platforms And Other Big Stocks Moving Lower In Thursday's Pre-Market Session
+
+Article 44
+Title: Rosenblatt Maintains Buy on Meta Platforms, R...
+
+Article 45
+Title: Mark Zuckerberg Says 'Tens Of Millions' Users Have Already Tried Meta AI, And People Are 'Asking Us To Release...Wherever They Are'
+
+Article 46
+Title: Needham Reiterates Underperform on Meta Platf...
+
+Article 47
+Title: Meta Platforms shares are trading lower after...
+
+Article 48
+Title: US Stocks Brace For Negative Start Amid Tech Earnings Disappointments, Caution Ahead Of Data: 'Worst Of This Two-Week Decline Is Behind Us,' Says Analyst
+
+Article 49
+Title: Why Teradyne Shares Are Trading Higher By Over 8%; Here Are 20 Stocks Moving Premarket
+
+Article 50
+Title: Wolfe Research Maintains Outperform on Meta P...
+
+Article 51
+Title: Mark Zuckerberg Shades Apple Vision Pro Once Again, Calls It 'Fashionable AI Glasses Without A Display'
+
+Article 52
+Title: Goldman Sachs Maintains Buy on Meta Platforms...
+
+Article 53
+Title: Mark Zuckerberg's Big AI Dreams For Meta 'Not So Clear:' Analyst Questions Profitability Of AI Chatbots
+
+Article 54
+Title: Mark Zuckerberg Lays Down How Meta Will Make Money From Its Multi-Billion Dollar AI Bet
+
+Article 55
+Title: Mark Zuckerberg Shifts Meta's Focus To AI 'Ag...
+
+Article 56
+Title: Meta Execs Mark Zuckerberg And Susan Li Tread Lightly On Impact Of TikTok Ban Or Sale: 'It Is Just Too Early'
+
+Article 57
+Title: Meta's Stock Plunge After Q1 Numbers An 'Overreaction' To Zuckerberg's CapEx Move, Says Gene Munster: 'He Wants to Get Investors on the Same Page
+
+Article 58
+Title: Meta CEO Mark Zuckerberg: 'More Than 50% Of The Content People See On Instagram Is Now AI Recommended'
+
+Article 59
+Title: Meta Platforms, Snap, Amazon, IBM, Tesla: Why These 5 Stocks Are On Investors' Radars Today
+
+Article 60
+Title: Mark Zuckerberg Gives Shoutout To Taylor Swift's Debut On Threads, Says 'That One Was A Big Deal In My House'
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: negative
+Title: Meta's metaverse has lost $46 billion
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta's metaverse has lost $46 billion'.
+
+Answer: 
+
+Post 2
+Sentiment: neutral
+Title: Meta Ad Performance Update 4/24/24
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta Ad Performance Update 4/24/24'.
+
+Answer: 
+
+Post 3
+Sentiment: negative
+Title: Meta's Reality Labs posts $3.85 billion loss in first quarter
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta's Reality Labs posts $3.85 billion loss in first quarter'.
+
+Answer: 
+
+Post 4
+Sentiment: neutral
+Title: Are Facebook ads really not working for you?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Are Facebook ads really not working for you?'.
+
+Answer: 
+
+Post 5
+Sentiment: negative
+Title: Facebook trust score dropped dramatically
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook trust score dropped dramatically'.
+
+Answer: 
+
+Post 6
+Sentiment: negative
+Title: Meta admits AI is losing money
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta admits AI is losing money'.
+
+Answer: 
+
+Post 7
+Sentiment: neutral
+Title: $Meta dip buying +455k
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): '$Meta dip buying +455k'.
+
+Answer: 
+
+================================================================================
+
+Date: 2024-04-03
+News sentiment: -2.0236, Reddit sentiment: -0.5076
+Absolute difference: 1.5160
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Stock Sharply Falls for Trump Media Group in Just a Week
+
+Article 2
+Title: If You Invested $1000 In This Stock 5 Years Ago, You Would Have $2,900 Today
+
+Article 3
+Title: Key Takeaways From Meta Platforms Analyst Ratings
+
+Article 4
+Title: Meta Platforms Says Launching An Updated Full...
+
+Article 5
+Title: Wells Fargo Maintains Overweight on Meta Plat...
+
+Article 6
+Title: Wall Street Wakes Up To The Risk In The Stock Market – Hoping For A Dovish Powell To Run Up Stocks
+
+Article 7
+Title: Market Clubhouse Morning Memo - April 3rd, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA)
+
+Article 8
+Title: Meta Platforms's Options: A Look at What the Big Money is Thinking
+
+Article 9
+Title: Did Meta Sell Facebook Messenger Chats To Netflix? Social Media Giant Calls It 'Shockingly Untrue'
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: negative
+Title: Is this Facebook message from meta a scam? I just received it today. 
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Is this Facebook message from meta a scam? I just received it today. '.
+
+Answer: 
+
+Post 2
+Sentiment: negative
+Title: Meta has been completely useless for local advertising
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta has been completely useless for local advertising'.
+
+Answer: 
+
+================================================================================
+
+Date: 2024-04-02
+News sentiment: -2.2363, Reddit sentiment: -0.7443
+Absolute difference: 1.4919
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Better Performer Than Nvidia – Copper Stock Freeport On China Optimism, Front Running Blind Money Fizzles
+
+Article 2
+Title: Facebook Is Selling Your Private Messages, Lawsuit Alleges
+
+Article 3
+Title: 10 Communication Services Stocks With Whale Alerts In Today's Session
+
+Article 4
+Title: Israel Kills Top Iranian General – Oil Rises – Not Great For Stock Market's No Inflation Story
+
+Article 5
+Title: S&P 500's Q1 Standouts: Energy, Communication Sectors In The Lead — 10 Top-Performing Stocks
+
+Article 6
+Title: Market Clubhouse Morning Memo - April 2nd, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA)
+
+Article 7
+Title: Microsoft Succumbs To Regulatory Pressure
+
+Article 8
+Title: Director of Lululemon Purchases Shares After Large Drop – Insider Weekends
+
+Article 9
+Title: Historic S&P 500 Rally In Q1 Flashes Bullish Signals For 2024: 'Only The Ninth Time Since 1940'
+
+Article 10
+Title: Watching Meta, Netflix Shares; Traders Circul...
+
+Article 11
+Title: 5 AI Stocks That Drove S&P 500's Q1 Gains
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: neutral
+Title: Brand new to meta ads - should I start with Advantage+ ? 
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Brand new to meta ads - should I start with Advantage+ ? '.
+
+Answer: 
+
+Post 2
+Sentiment: neutral
+Title: Paid $5,500 for 6 x UGC and 3 x Pro Videos to see if this improves META performance 
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Paid $5,500 for 6 x UGC and 3 x Pro Videos to see if this improves META performance '.
+
+Answer: 
+
+Post 3
+Sentiment: negative
+Title: Why facebook feed is filled with porn? Every second post is borderdline porn
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Why facebook feed is filled with porn? Every second post is borderdline porn'.
+
+Answer: 
+
+Post 4
+Sentiment: neutral
+Title: Best YouTube channels for learning Meta Ads?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Best YouTube channels for learning Meta Ads?'.
+
+Answer: 
+
+================================================================================
+
+Date: 2024-04-01
+News sentiment: -1.8590, Reddit sentiment: -0.3694
+Absolute difference: 1.4897
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Redditors Identify 'Best Undervalued Stocks' For 2024
+
+Article 2
+Title: As Tesla, Apple Falter, These Remaining 'Fab Four' From The Mag 7 Lot Are 'Still Holding Up' The Market
+
+Article 3
+Title: Watching Meta Platforms; Hearing Investor Bus...
+
+Article 4
+Title: Nvidia Leads, Tesla Lags Among Magnificent Seven Stocks: Q1 Market Shake-Up
+
+Article 5
+Title: Massachusetts' Cannabis Market Hits Record Highs, Faces Regulatory Challenges, And More
+
+Article 6
+Title: Meta's Efforts To Stall FTC's Reopening Of Facebook Privacy Settlement Rejected By Court
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: negative
+Title: Facebook is becoming a threat to the truth, and by extension, a threat to democracy
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook is becoming a threat to the truth, and by extension, a threat to democracy'.
+
+Answer: 
+
+Post 2
+Sentiment: neutral
+Title: I need to figure out why I keep getting a notification that "I have created too many facebook pages recently. Try again later" However I have never made even 1 FB page.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I need to figure out why I keep getting a notification that "I have created too many facebook pages recently. Try again later" However I have never made even 1 FB page.'.
+
+Answer: 
+
+Post 3
+Sentiment: neutral
+Title: Your ad quality is poor-Meta support
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Your ad quality is poor-Meta support'.
+
+Answer: 
+
+================================================================================
+

@@ -1,0 +1,339 @@
+Examples of Positive News but Negative Reddit Sentiment
+========================================================
+
+Date: 2024-12-24
+News sentiment: 1.7704, Reddit sentiment: -0.8333
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Looking At Meta Platforms's Recent Unusual Options Activity
+
+Article 2
+Title: Exploring The Competitive Space: Meta Platforms Versus Industry Peers In Interactive Media & Services
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: negative
+Title: My Account was hacked, and details changed - how do I contact meta for help?!
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'My Account was hacked, and details changed - how do I contact meta for help?!'.
+
+Answer: 
+
+Post 2
+Sentiment: neutral
+Title: Success with Facebook Ads, but poor returns with Google..
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Success with Facebook Ads, but poor returns with Google..'.
+
+Answer: 
+
+Post 3
+Sentiment: negative
+Title: Facebook posting soft porn images on my feed. How do I get them to stop?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook posting soft porn images on my feed. How do I get them to stop?'.
+
+Answer: 
+
+================================================================================
+
+Date: 2024-12-23
+News sentiment: 1.7723, Reddit sentiment: -0.8301
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Trump Gets Ford Vehicles, $1M For Inauguration - Will Musk Respond Or Could He Ride In Rival Vehicle?
+
+Article 2
+Title: Meta Plans Display-Equipped Ray-Ban Glasses By 2025: FT
+
+Article 3
+Title: Meta User Base, AI-Powered Ad Growth Drive Analyst Optimism
+
+Article 4
+Title: A Look Into Meta Platforms Inc's Price Over Earnings
+
+Article 5
+Title: TikTok Ban Under Trump? President-Elect Reconsiders As Pelosi Says 'Follow The Money'
+
+Article 6
+Title: In-Depth Analysis: Meta Platforms Versus Competitors In Interactive Media & Services Industry
+
+Article 7
+Title: Alphabet Defends DOJ Case, 'New Buyback' Likely From This '2025 Top Pick'
+
+Article 8
+Title: Elon Musk's xAI To Expand With New Chatbot App
+
+Article 9
+Title: Financial Times Reported Meta Plans To Add Di...
+
+Article 10
+Title: Is This Nancy Pelosi's Stock Pick Set To Overtake Nvidia? AI Chip Race To Heat Up By 2025 As Meta And Microsoft Look Beyond Jensen Huang's Chip Maker, Says Expert
+
+Article 11
+Title: Trump Taps Sriram Krishnan As Senior AI Advisor — Elon Musk Agrees New David Sacks Underling 'Right Man For The Topic And The Time'
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: neutral
+Title: I am bored with my accounts to here to help. Shoot questions for meta and Google ads
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I am bored with my accounts to here to help. Shoot questions for meta and Google ads'.
+
+Answer: 
+
+Post 2
+Sentiment: neutral
+Title: My Facebook feed lately has been showing these random pages I'm not following..
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'My Facebook feed lately has been showing these random pages I'm not following..'.
+
+Answer: 
+
+================================================================================
+
+Date: 2024-12-19
+News sentiment: 1.5430, Reddit sentiment: -0.8407
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: $1000 Invested In Meta Platforms 10 Years Ago Would Be Worth This Much Today
+
+Article 2
+Title: Industry Comparison: Evaluating Meta Platforms Against Competitors In Interactive Media & Services Industry
+
+Article 3
+Title: Jeff Bezos-Backed Perplexity Raises $500 Million, Tripling Its Valuation To $9 Billion As Competition With Google And OpenAI Heats Up
+
+Article 4
+Title: Apple Slams Meta's Interoperability Demands, Cites Privacy Risks — Instagram Parent Fires Back: Cupertino's Assertions Have 'No Basis In Reality'
+
+Article 5
+Title: Mitch McConnell Urges Supreme Court To Reject TikTok's Delay Request, Says Platform Hoping For Less Hostile DOJ In Trump Administration
+
+Article 6
+Title: Micron Technology, Quantum Corporation, Meta, Amazon, Tesla: Why These 5 Stocks Are On Investors' Radars Today
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: negative
+Title: Apple hits out at Meta's numerous interoperability requests
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Apple hits out at Meta's numerous interoperability requests'.
+
+Answer: 
+
+Post 2
+Sentiment: neutral
+Title: How Do I Find Someone to Run Facebook Ads and Get Good Results?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'How Do I Find Someone to Run Facebook Ads and Get Good Results?'.
+
+Answer: 
+
+Post 3
+Sentiment: neutral
+Title: What I Learned From 11 Years of Managing Facebook Ad Campaigns
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'What I Learned From 11 Years of Managing Facebook Ad Campaigns'.
+
+Answer: 
+
+Post 4
+Sentiment: neutral
+Title: Disable account no answer from Meta costing me all my work, we need to get together to get fix this!!
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Disable account no answer from Meta costing me all my work, we need to get together to get fix this!!'.
+
+Answer: 
+
+Post 5
+Sentiment: neutral
+Title: Suggestions for AI Video Content Creation on Facebook/Meta Ads
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Suggestions for AI Video Content Creation on Facebook/Meta Ads'.
+
+Answer: 
+
+Post 6
+Sentiment: negative
+Title: FACEBOOK PORN videos and pictures inserted in animal and children videos.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'FACEBOOK PORN videos and pictures inserted in animal and children videos.'.
+
+Answer: 
+
+Post 7
+Sentiment: neutral
+Title: Facebook banned you for no reason? Join the Discord! Let’s do something!
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook banned you for no reason? Join the Discord! Let’s do something!'.
+
+Answer: 
+
+================================================================================
+
+Date: 2024-12-17
+News sentiment: 1.3625, Reddit sentiment: -0.9469
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Vistra, Entergy, NiSource, PG&E: 4 Utilities Power Up For Bullish 2025, Says JPMorgan
+
+Article 2
+Title: Decoding Meta Platforms's Options Activity: What's the Big Picture?
+
+Article 3
+Title: Meta Fined $264 Million By EU Watchdog Over 2018 Facebook Data Breach
+
+Article 4
+Title: Market Breadth Worsens As Tech Giants Break Free From S&P 500 Reality: Is This Bullish Or Bearish For 2025?
+
+Article 5
+Title: Truist Securities Maintains Buy on Meta Platf...
+
+Article 6
+Title: Reported Earlier: Meta Fined $263M In EU Over...
+
+Article 7
+Title: Market Clubhouse Morning Memo - December 17th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META and TSLA)
+
+Article 8
+Title: Performance Comparison: Meta Platforms And Competitors In Interactive Media & Services Industry
+
+Article 9
+Title: Threads Reaches 100 Million Daily Active Users As Meta Capitalizes On Exodus From Elon Musk's X To Alternative Platforms
+
+Article 10
+Title: Meta's Ray-Ban Smart Glasses Can Now Be Your Chef, Linguist, And DJ — What's Next, Therapist?
+
+Article 11
+Title: OpenAI Co-Founder Ilya Sutskever Rings Alarm Bells: AI's 'Fossil Fuel' Is Running Out As World Reaches 'Peak Data'
+
+Article 12
+Title: Meta Arrives At $32 Million Settlement With Australia Over Cambridge Analytica Privacy Breach: Privacy Commissioner Labels It 'Largest Ever Payment'
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: negative
+Title: I'm so tired of Facebook hiding all of the comments for absolutely no reason.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I'm so tired of Facebook hiding all of the comments for absolutely no reason.'.
+
+Answer: 
+
+Post 2
+Sentiment: negative
+Title: Facebook is allowing hardcore pornography in there ads now and it's all over my timeline.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook is allowing hardcore pornography in there ads now and it's all over my timeline.'.
+
+Answer: 
+
+Post 3
+Sentiment: neutral
+Title: where to buy facebook bm
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'where to buy facebook bm'.
+
+Answer: 
+
+Post 4
+Sentiment: neutral
+Title: Meta doesn’t give us the desired ROAS, where to move?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta doesn’t give us the desired ROAS, where to move?'.
+
+Answer: 
+
+================================================================================
+
+Date: 2024-12-18
+News sentiment: 1.3688, Reddit sentiment: -0.8787
+
+NEWS ARTICLES:
+--------------
+Article 1
+Title: Mark Cuban Says This Is The 'Holy Grail' That Makes Bluesky Better Than Musk's X Platform
+
+Article 2
+Title: MrBeast's New Game Show To Premiere On Amazon Prime Video Thursday: Why Billionaire David Tepper May Be Watching
+
+Article 3
+Title: Who's Next To Join Tesla, Broadcom In $1 Trillion Club? Over 50% Say The World's Biggest Retailer
+
+Article 4
+Title: Amazon, Meta, Alphabet, Spotify Lead JPMorgan's 2025 Tech Picks For AI Potential
+
+Article 5
+Title: Instagram's Ad Revenue Could Hit $32 Billion by 2025, Driving Meta's Growth: Report
+
+Article 6
+Title: Top Senate Republican McConnell Urges Supreme...
+
+Article 7
+Title: U.S. Supreme Court Will Hear Arguments In Byt...
+
+Article 8
+Title: Assessing Meta Platforms's Performance Against Competitors In Interactive Media & Services Industry
+
+Article 9
+Title: US Stocks Led By Apple, Nvidia, And Other Tech Giants Dominate Nearly Two-Thirds Of MSCI World Index, Drawing Parallels To 1980s Peak
+
+Article 10
+Title: Microsoft Scoops Up 485,000 Nvidia AI Chips, Twice As Many As Its Closest Rival Meta: Report
+
+REDDIT POSTS:
+-------------
+Post 1
+Sentiment: negative
+Title: I am leaving Facebook forever. They have become a monstrosity of the corparate world
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'I am leaving Facebook forever. They have become a monstrosity of the corparate world'.
+
+Answer: 
+
+Post 2
+Sentiment: negative
+Title: Lol even META itself targets the wrong audience.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Lol even META itself targets the wrong audience.'.
+
+Answer: 
+
+Post 3
+Sentiment: negative
+Title: Was just remined of this peice of advice I would give. NEVER USE FACEBOOK/IG to LOGIN TO 3RD PARTY SITES
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Was just remined of this peice of advice I would give. NEVER USE FACEBOOK/IG to LOGIN TO 3RD PARTY SITES'.
+
+Answer: 
+
+Post 4
+Sentiment: neutral
+Title: Meta Ads freelancer in famine. How do you deal with it?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Meta Ads freelancer in famine. How do you deal with it?'.
+
+Answer: 
+
+Post 5
+Sentiment: negative
+Title: Facebook Disabled My Account Without Explanation - No Appeal Option! This account holds years of precious memories that i dont want to lose please help.
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook Disabled My Account Without Explanation - No Appeal Option! This account holds years of precious memories that i dont want to lose please help.'.
+
+Answer: 
+
+Post 6
+Sentiment: neutral
+Title: Is this wave of bans on Facebook/Meta for no reason normal? It happened to me and I've seen several posts about it recently 
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Is this wave of bans on Facebook/Meta for no reason normal? It happened to me and I've seen several posts about it recently '.
+
+Answer: 
+
+Post 7
+Sentiment: negative
+Title: Facebook users are getting Banned or Disabled for no reason, What’s going on!?
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Facebook users are getting Banned or Disabled for no reason, What’s going on!?'.
+
+Answer: 
+
+Post 8
+Sentiment: negative
+Title: Problema con Inhabilitación de cuentas de facebook whatsApp e Instagram
+Content: Classify the sentiment of this Meta reddit post title based on its potential impact on META stock price: positive (likely to increase), negative (likely to decrease), neutral (minimal impact) or unknown (uncertain impact): 'Problema con Inhabilitación de cuentas de facebook whatsApp e Instagram'.
+
+Answer: 
+
+================================================================================
+

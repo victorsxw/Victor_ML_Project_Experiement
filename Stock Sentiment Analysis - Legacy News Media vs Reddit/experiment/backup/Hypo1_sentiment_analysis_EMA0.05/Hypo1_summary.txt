@@ -1,0 +1,203 @@
+Hypothesis 1: Sentiment Correlation Analysis
+==========================================
+
+Research Question:
+Do sentiment trends between legacy news media and Reddit show significant correlation? Does Reddit sentiment lead news media sentiment?
+
+Null Hypothesis (H0): Sentiment trends between legacy news media and Reddit does not have any significant correlation.
+Alternative Hypothesis (H1): Sentiment trends between legacy news media and Reddit have a significant correlation. Also, Reddit sentiment has a faster respond and leads the legacy news media sentiment.
+
+Statistical Methods:
+-------------------
+1. Pearson Correlation Analysis: To measure the linear relationship between news and Reddit sentiment
+2. Cross-Correlation Analysis: To identify lead-lag relationships between the two sentiment series
+3. Granger Causality Tests: To determine if one sentiment series helps predict the other
+
+Results:
+--------
+
+Stock: TSLA
+Sample Size: 250
+Pearson Correlation Coefficient: 0.8868
+P-value: 0.0000
+Maximum Cross-Correlation: 1.0000
+
+Granger Causality Results:
+news_to_reddit:
+  Lag 1: p-value = 0.0516
+  Lag 2: p-value = 0.1408
+  Lag 3: p-value = 0.1863
+  Lag 4: p-value = 0.2019
+  Lag 5: p-value = 0.1555
+reddit_to_news:
+  Lag 1: p-value = 0.0019
+  Lag 2: p-value = 0.0030
+  Lag 3: p-value = 0.0056
+  Lag 4: p-value = 0.0131
+  Lag 5: p-value = 0.0247
+  Significant lags where Reddit leads News: 1, 2, 3, 4, 5
+Conclusion: Reject H0
+--------------------------------------------------
+
+Stock: NVDA
+Sample Size: 249
+Pearson Correlation Coefficient: 0.6040
+P-value: 0.0000
+Maximum Cross-Correlation: 1.0000
+
+Granger Causality Results:
+news_to_reddit:
+  Lag 1: p-value = 0.5920
+  Lag 2: p-value = 0.7501
+  Lag 3: p-value = 0.8173
+  Lag 4: p-value = 0.3707
+  Lag 5: p-value = 0.5884
+reddit_to_news:
+  Lag 1: p-value = 0.0451
+  Lag 2: p-value = 0.0029
+  Lag 3: p-value = 0.0090
+  Lag 4: p-value = 0.0218
+  Lag 5: p-value = 0.0277
+  Significant lags where Reddit leads News: 1, 2, 3, 4, 5
+Conclusion: Reject H0
+--------------------------------------------------
+
+Stock: AAPL
+Sample Size: 255
+Pearson Correlation Coefficient: 0.4624
+P-value: 0.0000
+Maximum Cross-Correlation: 0.9104
+
+Granger Causality Results:
+news_to_reddit:
+  Lag 1: p-value = 0.2822
+  Lag 2: p-value = 0.5465
+  Lag 3: p-value = 0.6995
+  Lag 4: p-value = 0.8642
+  Lag 5: p-value = 0.9050
+reddit_to_news:
+  Lag 1: p-value = 0.4280
+  Lag 2: p-value = 0.1758
+  Lag 3: p-value = 0.2877
+  Lag 4: p-value = 0.1810
+  Lag 5: p-value = 0.2351
+Conclusion: Reject H0
+--------------------------------------------------
+
+Stock: META
+Sample Size: 252
+Pearson Correlation Coefficient: -0.4374
+P-value: 0.0000
+Maximum Cross-Correlation: 0.8474
+
+Granger Causality Results:
+news_to_reddit:
+  Lag 1: p-value = 0.2305
+  Lag 2: p-value = 0.4240
+  Lag 3: p-value = 0.0295
+  Lag 4: p-value = 0.0036
+  Lag 5: p-value = 0.0104
+reddit_to_news:
+  Lag 1: p-value = 0.1045
+  Lag 2: p-value = 0.0337
+  Lag 3: p-value = 0.0647
+  Lag 4: p-value = 0.1332
+  Lag 5: p-value = 0.0984
+  Significant lags where Reddit leads News: 2
+Conclusion: Reject H0
+--------------------------------------------------
+
+Stock: SPY
+Sample Size: 257
+Pearson Correlation Coefficient: 0.4301
+P-value: 0.0000
+Maximum Cross-Correlation: 1.0000
+
+Granger Causality Results:
+news_to_reddit:
+  Lag 1: p-value = 0.2775
+  Lag 2: p-value = 0.5254
+  Lag 3: p-value = 0.6286
+  Lag 4: p-value = 0.4675
+  Lag 5: p-value = 0.5923
+reddit_to_news:
+  Lag 1: p-value = 0.9509
+  Lag 2: p-value = 0.3464
+  Lag 3: p-value = 0.3707
+  Lag 4: p-value = 0.5634
+  Lag 5: p-value = 0.5690
+Conclusion: Reject H0
+--------------------------------------------------
+
+Stock: PLTR
+Sample Size: 248
+Pearson Correlation Coefficient: 0.2947
+P-value: 0.0000
+Maximum Cross-Correlation: 0.8134
+
+Granger Causality Results:
+news_to_reddit:
+  Lag 1: p-value = 0.0975
+  Lag 2: p-value = 0.2603
+  Lag 3: p-value = 0.3370
+  Lag 4: p-value = 0.5868
+  Lag 5: p-value = 0.5562
+reddit_to_news:
+  Lag 1: p-value = 0.7781
+  Lag 2: p-value = 0.8458
+  Lag 3: p-value = 0.9709
+  Lag 4: p-value = 0.9818
+  Lag 5: p-value = 0.9328
+Conclusion: Reject H0
+--------------------------------------------------
+
+Overall Summary:
+Total stocks analyzed: 6
+Stocks with significant correlation: 6
+Stocks where Reddit sentiment leads News sentiment: 3
+  - TSLA, NVDA, META
+
+Visualization Files:
+-------------------
+1. correlation_summary.png - Summary of correlation coefficients for all stocks
+2. lead_lag_summary.png - Summary of lead-lag relationships for all stocks
+
+Stock-specific visualizations for TSLA:
+- sentiment_trends_TSLA.png - Time series plot of sentiment trends
+- correlation_scatter_TSLA.png - Correlation scatter plot
+- cross_correlation_TSLA.png - Cross-correlation analysis plot
+
+Stock-specific visualizations for NVDA:
+- sentiment_trends_NVDA.png - Time series plot of sentiment trends
+- correlation_scatter_NVDA.png - Correlation scatter plot
+- cross_correlation_NVDA.png - Cross-correlation analysis plot
+
+Stock-specific visualizations for AAPL:
+- sentiment_trends_AAPL.png - Time series plot of sentiment trends
+- correlation_scatter_AAPL.png - Correlation scatter plot
+- cross_correlation_AAPL.png - Cross-correlation analysis plot
+
+Stock-specific visualizations for META:
+- sentiment_trends_META.png - Time series plot of sentiment trends
+- correlation_scatter_META.png - Correlation scatter plot
+- cross_correlation_META.png - Cross-correlation analysis plot
+
+Stock-specific visualizations for SPY:
+- sentiment_trends_SPY.png - Time series plot of sentiment trends
+- correlation_scatter_SPY.png - Correlation scatter plot
+- cross_correlation_SPY.png - Cross-correlation analysis plot
+
+Stock-specific visualizations for PLTR:
+- sentiment_trends_PLTR.png - Time series plot of sentiment trends
+- correlation_scatter_PLTR.png - Correlation scatter plot
+- cross_correlation_PLTR.png - Cross-correlation analysis plot
+
+
+Conclusion:
+-----------
+The analysis provides evidence to reject the null hypothesis for 6 out of 6 stocks.
+There is a significant correlation between sentiment trends in legacy news media and Reddit for the majority of the stocks analyzed.
+
+Furthermore, for 3 stocks (TSLA, NVDA, META), the Granger causality tests indicate that Reddit sentiment leads news media sentiment, supporting the second part of the alternative hypothesis.
+
+These findings suggest that while there is often alignment between institutional and retail investor sentiment as reflected in news media and social media, the leading relationship between these platforms varies by stock and is not consistent across the market.

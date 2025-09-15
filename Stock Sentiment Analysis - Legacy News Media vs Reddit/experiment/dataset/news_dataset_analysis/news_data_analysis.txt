@@ -1,0 +1,127 @@
+新闻数据分析报告
+==================================================
+
+1. 数据基本信息
+------------------------------
+总记录数：38314
+特征数量：25
+特征列表：date, tic, datetime, headline, prompt_finbert, sentiment_finbert, prompt_finbert2, sentiment_finbert2, prompt_finbert_tone, sentiment_finbert_tone, prompt_finbert_tone2, sentiment_finbert_tone2, prompt_qwen, sentiment_qwen, prompt_qwen2, sentiment_qwen2, prompt_chat, sentiment_chat, prompt_chat2, sentiment_chat2, prompt_llama, sentiment_llama, prompt_llama2, sentiment_llama2, headline_length
+
+2. 时间范围
+------------------------------
+开始时间：2011-03-03 15:06:00+00:00
+结束时间：2025-02-26 15:30:00+00:00
+每日平均新闻数：11.75
+
+3. 情感分析特征
+------------------------------
+
+sentiment_finbert 分布：
+sentiment_finbert
+neutral     23861
+negative     7691
+positive     6762
+
+sentiment_finbert2 分布：
+sentiment_finbert2
+neutral     21268
+positive     8686
+negative     8360
+
+sentiment_finbert_tone 分布：
+sentiment_finbert_tone
+neutral     24272
+positive     8393
+negative     5649
+
+sentiment_finbert_tone2 分布：
+sentiment_finbert_tone2
+neutral     23298
+negative     8159
+positive     6857
+
+sentiment_qwen 分布：
+sentiment_qwen
+neutral     34980
+positive     1885
+unknown      1444
+negative        5
+
+sentiment_qwen2 分布：
+sentiment_qwen2
+neutral     32611
+positive     4495
+unknown      1204
+negative        4
+
+sentiment_chat 分布：
+sentiment_chat
+positive    20587
+negative    11729
+neutral      4841
+unknown      1157
+
+sentiment_chat2 分布：
+sentiment_chat2
+positive    15179
+negative    13180
+neutral      9447
+unknown       508
+
+sentiment_llama 分布：
+sentiment_llama
+unknown     18450
+positive    13765
+neutral      3685
+negative     2414
+
+sentiment_llama2 分布：
+sentiment_llama2
+unknown     21932
+positive    10172
+neutral      4045
+negative     2165
+
+4. 标题长度统计
+------------------------------
+count    38314.000000
+mean        71.379026
+std         27.979763
+min          5.000000
+25%         49.000000
+50%         65.000000
+75%         94.000000
+max        292.000000
+
+5. Prompt分析
+------------------------------
+
+prompt_finbert：
+唯一prompt数量：30400
+
+prompt_finbert2：
+唯一prompt数量：33435
+
+prompt_finbert_tone：
+唯一prompt数量：30400
+
+prompt_finbert_tone2：
+唯一prompt数量：33435
+
+prompt_qwen：
+唯一prompt数量：30400
+
+prompt_qwen2：
+唯一prompt数量：33435
+
+prompt_chat：
+唯一prompt数量：30400
+
+prompt_chat2：
+唯一prompt数量：33435
+
+prompt_llama：
+唯一prompt数量：30400
+
+prompt_llama2：
+唯一prompt数量：33435

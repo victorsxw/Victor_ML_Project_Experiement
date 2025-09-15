@@ -1,0 +1,57 @@
+META News vs Reddit Sentiment Negative Correlation Analysis Report
+=============================================================
+
+1. Correlation Analysis
+----------------------
+Overall Pearson correlation coefficient: -0.4261
+Same sentiment direction percentage: 36.5%
+Opposite sentiment direction percentage: 60.4%
+
+2. Monthly Correlation Changes
+-----------------------------
+2024-03: 0.8505
+2024-04: -0.7197
+2024-05: 0.0749
+2024-06: -0.7334
+2024-07: -0.4123
+2024-08: -0.8770
+2024-09: -0.4849
+2024-10: -0.4080
+2024-11: 0.3166
+2024-12: 0.0735
+2025-01: 0.0591
+2025-02: -0.6684
+
+3. Negative Correlation Cause Analysis
+-------------------------------------
+a) Information Source and Audience Differences:
+   - News Media: Tends to report official company information, financial data, strategic changes, etc.
+   - Reddit: Users focus more on product experiences, personal opinions, market speculation, etc.
+
+b) Timing Differences:
+   - Reddit users typically react immediately when events occur, with greater sentiment volatility
+   - News media tends to wait for more information and verification before reporting, with more balanced reactions
+
+c) Sentiment Expression Differences:
+   - Reddit users more easily express extreme sentiments (overly optimistic or pessimistic)
+   - News media typically maintains neutral reporting style with more restrained sentiment expressions
+
+d) Focus Differences:
+   - Reddit users focus more on short-term price movements and immediate news impacts
+   - News media focuses more on long-term strategy and fundamental analysis
+
+e) Contrarian Sentiment Possibility:
+   - When news media reports positively, Reddit may show skepticism
+   - When news media reports negatively, Reddit may show contrarian buying mentality
+
+4. Conclusion
+-------------
+META news and Reddit sentiment show a significant negative correlation, possibly resulting from substantial differences between investor sentiment and institutional media perspectives.
+
+In investment decision-making, one should consider both news media and social media sentiment, understanding how differences between them may create investment opportunities.
+
+5. Specific Content Analysis
+-------------------------
+Detailed analysis of opposing sentiment content can be found in the examples directory.
+These examples show specific instances where news and Reddit sentiment diverged significantly,
+providing insight into how different audiences perceive and react to META-related events.

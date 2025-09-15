@@ -1,0 +1,21 @@
+META September 2024 Sentiment Analysis Report
+===========================================
+
+Data points analyzed: 20
+Correlation coefficient: -0.4849
+
+Days with same sentiment direction: 2
+Days with opposite sentiment direction: 18
+
+Days with same sentiment direction:
+  2024-09-05: News=-2.6094, Reddit=nan
+  2024-09-16: News=-2.4465, Reddit=nan
+
+Extreme sentiment divergence days:
+  2024-09-17: News=-3.3720, Reddit=1.1533, Diff=-4.5253
+  2024-09-06: News=-2.5237, Reddit=1.5403, Diff=-4.0640
+  2024-09-09: News=-2.6317, Reddit=1.4293, Diff=-4.0609
+  2024-09-10: News=-2.9935, Reddit=1.0183, Diff=-4.0118
+  2024-09-12: News=-2.8085, Reddit=1.1213, Diff=-3.9297
+
+Correlation without top 5 extreme days: -0.4369

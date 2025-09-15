@@ -1,0 +1,178 @@
+Hypothesis 1: Sentiment Correlation Analysis
+==========================================
+
+Research Question:
+Do sentiment trends between legacy news media and Reddit show significant correlation?
+
+Null Hypothesis (H0): Sentiment trends between legacy news media and Reddit does not have any significant correlation.
+Alternative Hypothesis (H1): Sentiment trends between legacy news media and Reddit have a significant correlation.
+
+Statistical Methods:
+-------------------
+1. Pearson Correlation Analysis: To measure the linear relationship between news and Reddit sentiment
+2. Cross-Correlation Analysis: To identify lead-lag relationships between the two sentiment series
+3. Granger Causality Tests: To determine if one sentiment series helps predict the other
+
+Results:
+--------
+
+Stock: TSLA
+Sample Size: 255
+Pearson Correlation Coefficient: 0.8718
+P-value: 0.0000
+Maximum Cross-Correlation: 1.0000
+
+Granger Causality Results:
+news_to_reddit:
+  Lag 1: p-value = 0.0613
+  Lag 2: p-value = 0.1539
+  Lag 3: p-value = 0.2086
+  Lag 4: p-value = 0.2529
+  Lag 5: p-value = 0.2055
+reddit_to_news:
+  Lag 1: p-value = 0.0069
+  Lag 2: p-value = 0.0122
+  Lag 3: p-value = 0.0211
+  Lag 4: p-value = 0.0456
+  Lag 5: p-value = 0.0879
+Conclusion: Reject H0
+--------------------------------------------------
+
+Stock: NVDA
+Sample Size: 255
+Pearson Correlation Coefficient: 0.5688
+P-value: 0.0000
+Maximum Cross-Correlation: 0.9900
+
+Granger Causality Results:
+news_to_reddit:
+  Lag 1: p-value = 0.6582
+  Lag 2: p-value = 0.7958
+  Lag 3: p-value = 0.8435
+  Lag 4: p-value = 0.3940
+  Lag 5: p-value = 0.6024
+reddit_to_news:
+  Lag 1: p-value = 0.0552
+  Lag 2: p-value = 0.0041
+  Lag 3: p-value = 0.0119
+  Lag 4: p-value = 0.0230
+  Lag 5: p-value = 0.0341
+Conclusion: Reject H0
+--------------------------------------------------
+
+Stock: AAPL
+Sample Size: 255
+Pearson Correlation Coefficient: 0.4990
+P-value: 0.0000
+Maximum Cross-Correlation: 0.8961
+
+Granger Causality Results:
+news_to_reddit:
+  Lag 1: p-value = 0.3386
+  Lag 2: p-value = 0.5464
+  Lag 3: p-value = 0.6992
+  Lag 4: p-value = 0.8621
+  Lag 5: p-value = 0.8529
+reddit_to_news:
+  Lag 1: p-value = 0.4592
+  Lag 2: p-value = 0.3248
+  Lag 3: p-value = 0.4188
+  Lag 4: p-value = 0.2589
+  Lag 5: p-value = 0.3803
+Conclusion: Reject H0
+--------------------------------------------------
+
+Stock: META
+Sample Size: 253
+Pearson Correlation Coefficient: -0.4672
+P-value: 0.0000
+Maximum Cross-Correlation: 0.8729
+
+Granger Causality Results:
+news_to_reddit:
+  Lag 1: p-value = 0.1617
+  Lag 2: p-value = 0.2834
+  Lag 3: p-value = 0.0334
+  Lag 4: p-value = 0.0058
+  Lag 5: p-value = 0.0131
+reddit_to_news:
+  Lag 1: p-value = 0.1284
+  Lag 2: p-value = 0.0423
+  Lag 3: p-value = 0.0757
+  Lag 4: p-value = 0.1496
+  Lag 5: p-value = 0.1488
+Conclusion: Reject H0
+--------------------------------------------------
+
+Stock: SPY
+Sample Size: 255
+Pearson Correlation Coefficient: 0.3762
+P-value: 0.0000
+Maximum Cross-Correlation: 1.0000
+
+Granger Causality Results:
+news_to_reddit:
+  Lag 1: p-value = 0.2598
+  Lag 2: p-value = 0.4999
+  Lag 3: p-value = 0.6208
+  Lag 4: p-value = 0.4413
+  Lag 5: p-value = 0.5527
+reddit_to_news:
+  Lag 1: p-value = 0.7231
+  Lag 2: p-value = 0.3048
+  Lag 3: p-value = 0.3328
+  Lag 4: p-value = 0.5108
+  Lag 5: p-value = 0.4748
+Conclusion: Reject H0
+--------------------------------------------------
+
+Stock: PLTR
+Sample Size: 242
+Pearson Correlation Coefficient: 0.2559
+P-value: 0.0001
+Maximum Cross-Correlation: 0.5820
+
+Granger Causality Results:
+news_to_reddit:
+  Lag 1: p-value = 0.1189
+  Lag 2: p-value = 0.2875
+  Lag 3: p-value = 0.3777
+  Lag 4: p-value = 0.6733
+  Lag 5: p-value = 0.7286
+reddit_to_news:
+  Lag 1: p-value = 0.9193
+  Lag 2: p-value = 0.8148
+  Lag 3: p-value = 0.9429
+  Lag 4: p-value = 0.9810
+  Lag 5: p-value = 0.8540
+Conclusion: Reject H0
+--------------------------------------------------
+
+Overall Summary:
+Total stocks analyzed: 6
+Stocks with significant correlation: 6
+
+Visualization Files:
+-------------------
+1. sentiment_trends_TSLA.png - Time series plot of sentiment trends
+2. correlation_scatter_TSLA.png - Correlation scatter plot
+3. cross_correlation_TSLA.png - Cross-correlation analysis plot
+1. sentiment_trends_NVDA.png - Time series plot of sentiment trends
+2. correlation_scatter_NVDA.png - Correlation scatter plot
+3. cross_correlation_NVDA.png - Cross-correlation analysis plot
+1. sentiment_trends_AAPL.png - Time series plot of sentiment trends
+2. correlation_scatter_AAPL.png - Correlation scatter plot
+3. cross_correlation_AAPL.png - Cross-correlation analysis plot
+1. sentiment_trends_META.png - Time series plot of sentiment trends
+2. correlation_scatter_META.png - Correlation scatter plot
+3. cross_correlation_META.png - Cross-correlation analysis plot
+1. sentiment_trends_SPY.png - Time series plot of sentiment trends
+2. correlation_scatter_SPY.png - Correlation scatter plot
+3. cross_correlation_SPY.png - Cross-correlation analysis plot
+1. sentiment_trends_PLTR.png - Time series plot of sentiment trends
+2. correlation_scatter_PLTR.png - Correlation scatter plot
+3. cross_correlation_PLTR.png - Cross-correlation analysis plot
+
+Summary Visualizations:
+1. correlation_summary.png - Comparison of correlation coefficients across all stocks
+2. lead_lag_summary.png - Lead-lag relationships between news and Reddit sentiment
